@@ -1,0 +1,350 @@
+Overview of the ioquake3 source code.  I will only be talking about the cgame,
+client, and server portions.  I'll put the dependencies that just make it easier
+to compile at the end.
+
+The cgame.qvm related files.  The contents of these can change per mod.  However,
+the cg_public.h interface is still enforced.  The only way to remove that is to
+make a completely standalone game.  You can have a standalone, total conversion
+game and still adhere to the interface.
+
+    code/cgame/cg_consolecmds.c
+    code/cgame/cg_draw.c
+    code/cgame/cg_drawtools.c
+    code/cgame/cg_effects.c
+    code/cgame/cg_ents.c
+    code/cgame/cg_event.c
+    code/cgame/cg_info.c
+    code/cgame/cg_localents.c
+    code/cgame/cg_local.h
+    code/cgame/cg_main.c
+    code/cgame/cg_marks.c
+    code/cgame/cg_newdraw.c
+    code/cgame/cg_particles.c
+    code/cgame/cg_players.c
+    code/cgame/cg_playerstate.c
+    code/cgame/cg_predict.c
+    code/cgame/cg_public.h
+    code/cgame/cg_scoreboard.c
+    code/cgame/cg_servercmds.c
+    code/cgame/cg_snapshot.c
+    code/cgame/cg_syscalls.asm
+    code/cgame/cg_syscalls.c
+    code/cgame/cg_view.c
+    code/cgame/cg_weapons.c
+
+The client side of the game.  This is what you interact with and what the server sends
+data to.  It is responsible for getting data to/from the QVM and handling responsibilities
+on behalf of the QVM side.
+
+    code/client/cl_avi.c
+    code/client/cl_cgame.c
+    code/client/cl_cin.c
+    code/client/cl_console.c
+    code/client/cl_curl.c
+    code/client/cl_curl.h
+    code/client/client.h
+    code/client/cl_input.c
+    code/client/cl_keys.c
+    code/client/cl_main.c
+    code/client/cl_net_chan.c
+    code/client/cl_parse.c
+    code/client/cl_scrn.c
+    code/client/cl_ui.c
+    code/client/keycodes.h
+    code/client/keys.h
+    code/client/libmumblelink.c
+    code/client/libmumblelink.h
+    code/client/qal.c
+    code/client/qal.h
+    code/client/snd_adpcm.c
+    code/client/snd_codec.c
+    code/client/snd_codec.h
+    code/client/snd_codec_ogg.c
+    code/client/snd_codec_wav.c
+    code/client/snd_dma.c
+    code/client/snd_local.h
+    code/client/snd_main.c
+    code/client/snd_mem.c
+    code/client/snd_mix.c
+    code/client/snd_openal.c
+    code/client/snd_public.h
+    code/client/snd_wavelet.c
+
+The server side QVM is the 2nd of 3 QVM files.  Is is concerned with how the server
+should operate in the mod.
+
+    code/game/ai_chat.c
+    code/game/ai_chat.h
+    code/game/ai_cmd.c
+    code/game/ai_cmd.h
+    code/game/ai_dmnet.c
+    code/game/ai_dmnet.h
+    code/game/ai_dmq3.c
+    code/game/ai_dmq3.h
+    code/game/ai_main.c
+    code/game/ai_main.h
+    code/game/ai_team.c
+    code/game/ai_team.h
+    code/game/ai_vcmd.c
+    code/game/ai_vcmd.h
+    code/game/bg_lib.c
+    code/game/bg_lib.h
+    code/game/bg_local.h
+    code/game/bg_misc.c
+    code/game/bg_pmove.c
+    code/game/bg_public.h
+    code/game/bg_slidemove.c
+    code/game/chars.h
+    code/game/g_active.c
+    code/game/g_arenas.c
+    code/game/g_bot.c
+    code/game/g_client.c
+    code/game/g_cmds.c
+    code/game/g_combat.c
+    code/game/g_items.c
+    code/game/g_local.h
+    code/game/g_main.c
+    code/game/g_mem.c
+    code/game/g_misc.c
+    code/game/g_missile.c
+    code/game/g_mover.c
+    code/game/g_public.h
+    code/game/g_rankings.c
+    code/game/g_rankings.h
+    code/game/g_session.c
+    code/game/g_spawn.c
+    code/game/g_svcmds.c
+    code/game/g_syscalls.asm
+    code/game/g_syscalls.c
+    code/game/g_target.c
+    code/game/g_team.c
+    code/game/g_team.h
+    code/game/g_trigger.c
+    code/game/g_utils.c
+    code/game/g_weapon.c
+    code/game/inv.h
+    code/game/match.h
+    code/game/syn.h
+
+Dummy versions of important files like the client, GL init and networking.  These are supposed to
+make it easier to port.
+
+    code/null/mac_net.c
+    code/null/null_client.c
+    code/null/null_glimp.c
+    code/null/null_input.c
+    code/null/null_main.c
+    code/null/null_net.c
+    code/null/null_snddma.c
+
+This is the last QVM.  It's concerned with the user interface.  I won't go into details because I
+haven't looked at it.  Like cgame and qagame, it has a system call interface so the client and UI
+have to interact through a fixed API.
+
+    code/q3_ui/*.{c,h}
+
+These are common operations.  If you browse the Makefile, you will see these included in a lot of places.
+Be sure you look closely at the Makefile.  It has a peculiar way of specifying files.  When it has
+  $(B)/client/*.o, it may not be from the client/ directory at all.  There's a section at the bottom
+which says where all /client/ files pulling from.
+
+Getting back to qcommon, these are shared between both the client and server?
+
+    code/qcommon/cmd.c
+    code/qcommon/cm_load.c
+    code/qcommon/cm_local.h
+    code/qcommon/cm_patch.c
+    code/qcommon/cm_patch.h
+    code/qcommon/cm_polylib.c
+    code/qcommon/cm_polylib.h
+    code/qcommon/cm_public.h
+    code/qcommon/cm_test.c
+    code/qcommon/cm_trace.c
+    code/qcommon/common.c
+    code/qcommon/cvar.c
+    code/qcommon/files.c
+    code/qcommon/huffman.c
+    code/qcommon/ioapi.c
+    code/qcommon/ioapi.h
+    code/qcommon/md4.c
+    code/qcommon/md5.c
+    code/qcommon/msg.c
+    code/qcommon/net_chan.c
+    code/qcommon/net_ip.c
+    code/qcommon/puff.c
+    code/qcommon/puff.h
+    code/qcommon/qcommon.h    - Very important file which has a lot of struct definitions and function declarations
+    code/qcommon/qfiles.h
+    code/qcommon/q_math.c
+    code/qcommon/q_platform.h
+    code/qcommon/q_shared.c
+    code/qcommon/q_shared.h   - The other very important header file with struct definitions and function declarations
+    code/qcommon/surfaceflags.h
+    code/qcommon/unzip.c
+    code/qcommon/unzip.h
+
+This is the VM code to run the QVM.
+
+    code/qcommon/vm.c
+    code/qcommon/vm_interpreted.c
+    code/qcommon/vm_local.h
+    code/qcommon/vm_none.c
+    code/qcommon/vm_powerpc_asm.c
+    code/qcommon/vm_powerpc_asm.h
+    code/qcommon/vm_powerpc.c
+    code/qcommon/vm_sparc.c
+    code/qcommon/vm_sparc.h
+    code/qcommon/vm_x86_64_assembler.c
+    code/qcommon/vm_x86_64.c
+    code/qcommon/vm_x86.c
+
+This is the pluggable renderer.  ioquake3 recently added a modular renderer so you can swap it out at runtime.  It
+can load the appropriate renderer based on a cvar.
+
+    code/renderer/iqm.h
+    code/renderer/qgl.h
+    code/renderer/tr_animation.c
+    code/renderer/tr_backend.c
+    code/renderer/tr_bsp.c
+    code/renderer/tr_cmds.c
+    code/renderer/tr_curve.c
+    code/renderer/tr_flares.c
+    code/renderer/tr_font.c
+    code/renderer/tr_image_bmp.c
+    code/renderer/tr_image.c
+    code/renderer/tr_image_jpg.c
+    code/renderer/tr_image_pcx.c
+    code/renderer/tr_image_png.c
+    code/renderer/tr_image_tga.c
+    code/renderer/tr_init.c
+    code/renderer/tr_light.c
+    code/renderer/tr_local.h
+    code/renderer/tr_main.c
+    code/renderer/tr_marks.c
+    code/renderer/tr_mesh.c
+    code/renderer/tr_model.c
+    code/renderer/tr_model_iqm.c
+    code/renderer/tr_noise.c
+    code/renderer/tr_public.h
+    code/renderer/tr_scene.c
+    code/renderer/tr_shade.c
+    code/renderer/tr_shade_calc.c
+    code/renderer/tr_shader.c
+    code/renderer/tr_shadows.c
+    code/renderer/tr_sky.c
+    code/renderer/tr_subs.c
+    code/renderer/tr_surface.c
+    code/renderer/tr_types.h
+    code/renderer/tr_world.c
+
+
+The server executable is generated from here.
+
+    code/server/server.h
+    code/server/sv_bot.c
+    code/server/sv_ccmds.c
+    code/server/sv_client.c
+    code/server/sv_game.c
+    code/server/sv_init.c
+    code/server/sv_main.c
+    code/server/sv_net_chan.c
+    code/server/sv_rankings.c
+    code/server/sv_snapshot.c
+    code/server/sv_world.c
+
+System/platform related functionality.  The non-portable parts are split out into individual files
+for the most part.
+
+    code/sys/con_log.c
+    code/sys/con_passive.c
+    code/sys/con_tty.c
+    code/sys/con_win32.c
+    code/sys/sys_loadlib.h
+    code/sys/sys_local.h
+    code/sys/sys_main.c
+    code/sys/sys_osx.m
+    code/sys/sys_unix.c
+    code/sys/sys_win32.c
+    code/sys/win_resource.h
+    code/sys/win_resource.rc
+
+These are the files to go from C to QVM.  It includes lcc and an assembler.
+
+    code/tools/asm/*.{c,h}
+
+This is the lcc compiler which was modified to output QVM code.
+
+    code/tools/lcc/src/*.{c,h}
+
+More ui?
+
+    code/ui/ui_atoms.c
+    code/ui/ui_gameinfo.c
+    code/ui/ui_local.h
+    code/ui/ui_main.c
+    code/ui/ui_players.c
+    code/ui/ui_public.h
+    code/ui/ui_shared.c
+    code/ui/ui_shared.h
+    code/ui/ui_syscalls.asm
+    code/ui/ui_syscalls.c
+
+
+The cross platform SDL related files.  These are basic user input.
+
+    code/sdl/sdl_gamma.c
+    code/sdl/sdl_glimp.c
+    code/sdl/sdl_icon.h
+    code/sdl/sdl_input.c
+    code/sdl/sdl_snd.c
+
+Small amount of assembly
+
+    code/asm/ftola.asm
+    code/asm/ftola.c
+    code/asm/matha.s
+    code/asm/qasm.h
+    code/asm/qasm-inline.h
+    code/asm/snapvector.asm
+    code/asm/snapvector.c
+    code/asm/snd_mixa.s
+    code/asm/vm_x86_64.asm
+
+Bot library for how the bot interacts with the game.
+
+    code/botlib/*.{c,h}
+
+###############################################################################
+# From here down are just dependencies to make it easier to compile.
+# They have not been modified (or very slightly) from their upstream versions.
+###############################################################################
+
+This is OpenAL related (sound) header files
+
+    code/AL/*.h
+
+jpeg-8c distribution.
+
+    code/jpeg-8c/*.c
+
+Header files to compile against libcurl.  Unlike jpeg-8c, it is not bundled in the SVN repository.
+
+    code/libcurl/curl/*.h
+
+SDL stubs so it is easier to compile on Mac and Windows
+
+    code/libs/macosx/*.{dylib,a}
+    code/libs/win32/*.{a,lib}
+    code/libs/win64/*.{a,lib}
+
+Speex speech compression library
+
+    code/libspeex/*.{c,h}
+
+This is the include file side of SDL 1.2.x
+
+    code/SDL12/include/*.h
+
+zlib compression library
+
+    code/zlib/*.{c,h}

@@ -1,0 +1,299 @@
+/*! \file code/qcommon/qcommon.h
+    \brief definitions common between client and server, but not game or ref modules
+
+    More details about this file
+*/
+
+//
+// Some of these are simply examples and should not be counted on for accurate documentation (yet).
+//
+
+/*! \struct msg_t
+    \brief Basic data structure for msg.c
+
+    \var msg_t::allowoverflow
+    \brief If false, do a Com_Error
+
+    \var msg_t::overflowed
+    \brief Set to true if the buffer size failed (with allowoverflow set)
+
+    \var msg_t::oob
+    \brief Set to true if the buffer size failed (with allowoverflow set)
+
+    \var msg_t::data
+    \brief Pointer to the data
+
+    \var msg_t::maxsize
+    \brief Maximum size of the message?
+
+    \var msg_t::cursize
+    \brief Current size of the message
+
+    \var msg_t::readcount
+    \brief Index into the message that has been read
+
+    \var msg_t::bit
+    \brief For bitwise reads and writes
+*/
+
+/*! \def NET_ENABLEV4
+    \brief Whether to enable IPv4
+*/
+
+/*! \def NET_ENABLEV6
+    \brief Whether to enable IPv6
+*/
+
+/*! \def NET_PRIOV6
+    \brief Always attempt IPv6 connections instead of IPv4 if a IPv6 address is found.
+*/
+
+/*! \def NET_DISABLEMCAST
+    \brief Disable IPv6 multicast support
+*/
+
+/*! \def PACKET_BACKUP
+    \brief Number of old messages that must be kept on client and server for delta compression and ping estimation
+*/
+
+/*! \def PACKET_MASK
+    \brief Mask the packet backup
+*/
+
+/*! \def MAX_PACKET_USERCMDS
+    \brief Max number of usercmd_t in a packet
+*/
+
+/*! \def PORT_ANY
+    \brief
+*/
+
+/*! \def MAX_RELIABLE_COMMANDS
+    \brief Max string commands buffered for retransmit
+*/
+
+/*! \enum netadrtype_t
+    \brief A network address type enum
+
+    \var netadrtype_t::NA_BAD
+    \brief An address lookup failed
+
+    \var netadrtype_t::NA_BOT
+    \brief Bot (fake) address
+
+    \var netadrtype_t::NA_LOOPBACK
+    \brief Loopback address
+
+    \var netadrtype_t::NA_BROADCAST
+    \brief Broadcast address
+
+    \var netadrtype_t::NA_IP
+    \brief IPv4 address
+
+    \var netadrtype_t::NA_IP6
+    \brief IPv6 address
+
+    \var netadrtype_t::NA_MULTICAST6
+    \brief IPv6 multicast
+
+    \var netadrtype_t::NA_UNSPEC
+    \brief Unspecified address
+*/
+
+/*! \enum netsrc_t
+    \brief Network source
+
+    \var netsrc_t::NS_CLIENT
+    \brief Client
+
+    \var netsrc_t::NS_SERVER
+    \brief Server
+*/
+
+/*! \def NET_ADDRSTRMAXLEN
+    \brief Maximum length of an IPv6 address string including trailing NUL
+*/
+
+/*! \def MAX_MSGLEN
+    \brief Max length of a message which may be fragmented into multiple packets
+*/
+
+/*! \def MAX_DOWNLOAD_WINDOW
+    \brief ACK window of MAX_DOWNLOAD_WINDOW chunks.  Cannot set this higher or clients will overflow the reliable commands buffer.
+*/
+
+/*! \def MAX_DOWNLOAD_BLKSIZE
+    \brief Maximum block size for downloads.
+*/
+
+/*! \def NETCHAN_GENCHECKSUM
+    \brief Generate a checksum for the network channel
+*/
+
+/*! \struct netchan_t
+    \brief Network channel
+
+    \var netchan_t::sock
+    \brief The socket that this channel is connected to
+
+    \var netchan_t::dropped
+    \brief Whether the connection was dropped between the last packet and previous
+
+    \var netchan_t::remoteAddress
+    \brief The remote address for this socket
+
+    \var netchan_t::qport
+    \brief qport value to write when transmitting
+
+    \var netchan_t::incomingSequence
+    \brief Incoming sequence counter variable
+
+    \var netchan_t::outgoingSequence
+    \brief Outgoing sequence counter variable
+
+    \var netchan_t::fragmentSequence
+    \brief Fragment assembly buffer sequence
+
+    \var netchan_t::fragmentLength
+    \brief Length of the fragment.
+
+    \var netchan_t::fragmentBuffer
+    \brief Data of the fragment
+
+    \var netchan_t::unsentFragments
+    \brief Whether there are unset fragments
+
+    \var netchan_t::unsentFragmentStart
+    \brief Start index of the unsent fragment?
+
+    \var netchan_t::unsentLength
+    \brief Length, in bytes, of the unsent data?
+
+    \var netchan_t::unsentBuffer
+    \brief Data that hasn't been sent
+
+    \var netchan_t::challenge
+    \brief Challenge id
+
+    \var netchan_t::lastSentTime
+    \brief Last time a message was sent
+
+    \var netchan_t::lastSentSize
+    \brief Last message's size
+
+    \var netchan_t::compat
+    \brief If LEGACY_PROTOCOL, whether compatibility mode is enabled
+*/
+
+/*! \def PROTOCOL_VERSION
+    \brief Protocol version when the new protocol is in affect
+*/
+
+/*! \def PROTOCOL_LEGACY_VERSION
+    \brief When using LEGACY_PROTOCOL, this is the identifier
+*/
+
+/*! \def UPDATE_SERVER_NAME
+    \brief Hostname of the update server.
+
+    This should not be needed for standalone games and is in fact ifdef protected
+*/
+
+/*! \def MASTER_SERVER_NAME
+    \brief Name of the master server.
+
+    This can be overridden on the command line, config files, etc.
+*/
+
+/*! \def AUTHORIZE_SERVER_NAME
+    \brief Hostname of the authorize server.
+
+   This is only useful in non-standalone games.
+*/
+
+/*! \def PORT_AUTHORIZE
+    \brief When using the authorize server, this is the port to use.
+*/
+
+/* \def PORT_MASTER
+   \brief Port to connect to the MASTER_SERVER_NAME
+*/
+
+/* \def PORT_UPDATE
+   \brief Port to connect to the UPDATE_SERVER_NAME
+*/
+
+/*! \def PORT_SERVER
+    \brief Port for the server to listen on by default
+*/
+
+/*! \def NUM_SERVER_PORTS
+    \brief Broadcast scan this many ports after PORT_SERVER so a single machine can run multiple servers.
+*/
+
+/*! \enum svc_ops_e
+    \brief Server to client commands
+
+    The svc_strings[] array in cl_parse.c should mirror this.
+
+    \var svc_ops_e::svc_bad
+    \brief Bad server command
+
+    \var svc_ops_e::svc_nop
+    \brief No-op command for server
+
+    \var svc_ops_e::svc_gamestate
+    \brief Server command for a gamestate.
+
+    \var svc_ops_e::svc_configstring
+    \brief Server command for sending a config string
+
+    [short] [string] only in gamestate messages
+
+    \var svc_ops_e::svc_baseline
+    \brief Server command for sending baselines.
+
+    This is only in gamestate messages.
+
+    \var svc_ops_e::svc_serverCommand
+    \brief Server command for the client game module to execute
+
+    \var svc_ops_e::svc_download
+    \brief Server command for a download
+
+    \var svc_ops_e::svc_snapshot
+    \brief Server command for sending a snapshot
+
+    \var svc_ops_e::svc_EOF
+    \brief Server command for sending end of file
+
+    \var svc_ops_e::svc_voip
+    \brief Server command for VoIP
+
+    This is only supported by ioquake3 protocol and not the legacy.
+    It is not wrapped in USE_VOIP so the value is reserved.
+*/
+
+/*! \enum clc_ops_e
+    \brief Client to server commands.
+
+    \var clc_ops_e::clc_bad
+    \brief Client sends a bad command
+
+    \var clc_ops_e::clc_nop
+    \brief Client sends a no-op command
+
+    \var clc_ops_e::clc_moveNoDelta
+    \brief ...
+
+    \var clc_ops_e::clc_clientCommand
+    \brief Client sends a command to the server
+
+    \var clc_ops_e::clc_EOF
+    \brief Client sends an end of file command
+
+    \var clc_ops_e::clc_voip
+    \brief Client VoIP
+*/
+
+// Stopped before VIRTUAL MACHINE

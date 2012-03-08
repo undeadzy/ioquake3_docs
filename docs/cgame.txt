@@ -1,0 +1,172 @@
+cgame.qvm
+  Interface is in code/cgame/cg_public.h
+  Also uses definitions from code/game/bg_public.h
+    cgameImport_t lists the functions that the QVM can use to interact with the client
+    cgameExport_t lists the functions that the client can use to call the QVM land
+
+This is the client game.  It is compiled into a SO/DLL or QVM file.  There is
+also a qagame and ui that is similarly compiled down to a SO/DLL or QVM file.
+
+When you use a third party mod, this is how they change the way Quake3 behaves.
+Because we don't want to have mod developers running arbitrary code on our
+machines, id software developed a QVM format.  This is a special type of byte
+code that gets generated from plain C files.  They modified the lcc compiler
+to generate QVM output.
+
+This is important because it means this QVM is a sandbox.  You have a limited
+instruction set and some code and data areas to execute with.  You can do
+any operation you want with standard C language features (more or less) but
+you don't have a standard C library behind it.  There's no stdio.h or anything
+like that available for you.  When you look at the code, you will see replacements
+for standard C library functions that are in the ioquake3 source tree.  This is
+because they wanted to make these functions available to you and they had to
+be compiled down to QVM so it can run in your sandbox.  QVM land is
+intentionally limited so mod developers theoretically cannot get access outside
+of the QVM.  That is unless they go through the standardized API.
+
+The way you get data into or out of QVM land is through "system calls".  These
+are not the operating system level system calls although they are analogous.
+QVM code makes use of these system calls to interact with the outside world.
+While it's ok to do calculations and modify data in the QVM world, but at some
+point you need to interact with the client to get input or send it results.
+These system calls are an API for the QVM to make calls back out to the client
+and for the client to make calls to the QVM.  Both sides are restricted in
+what they can do.
+
+Take a look at the file code/cgame/cg_public.h.  These are struct cgameImport_t
+is what the QVM code can call from the outside world (client).  This is a large
+struct with many different types of operations.  Since this is shared by the
+cgame QVM and the client, it must be kept in sync and will not change except
+in a standalone game where all bets are off.
+
+In even total conversions for Quake3, they must adhere to this interface.  Here
+is what the QVM can request from the client.  These are requested through a 
+trap mechanism.
+
+They can be broken down into a couple different categories: ways to get
+data from the client, ways to get data out to the client, math functions,
+outside I/O besides data (play/stop sound, interact with the renderer, etc)
+and file I/O.
+
+Note that I grouped these into a fashion so I can talk about them.  Refer
+to cg_public.h for the actual struct order.
+
+CG_PRINT,
+CG_ERROR,
+CG_MILLISECONDS,
+
+cvar related functions to get/set/update values.
+
+CG_CVAR_REGISTER,
+CG_CVAR_UPDATE,
+CG_CVAR_SET,
+CG_CVAR_VARIABLESTRINGBUFFER,
+
+Functions to get arguments.  This is not argc/argv as in the main() function.
+These are ways to get arguments from system calls.
+
+CG_ARGC,
+CG_ARGV,
+CG_ARGS,
+
+File related operations.  Note that these are not generic file I/O commands.
+The QVM cannot request /etc/passwd.  It has to request a file from the game
+directory downward.
+
+CG_FS_FOPENFILE,
+CG_FS_READ,
+CG_FS_WRITE,
+CG_FS_FCLOSEFILE,
+
+CG_SENDCONSOLECOMMAND,
+CG_ADDCOMMAND,
+CG_SENDCLIENTCOMMAND,
+
+CG_UPDATESCREEN,
+
+CG_CM_* functions to interact with?
+
+CG_S_* functions for interacting with the sound system.
+
+CG_R_* functions to interact with the renderer
+
+These functions are important for bringing data into QVM land.  These are the ways to get
+relatively large amounts of data into QVM.  The server sends data to the client and the
+client caches it because the QVM will request it.
+
+CG_GETGAMESTATE              Tells the client to copy the gamestate that it received from the server and copy it into a buffer that the QVM can read.
+CG_GETCURRENTSNAPSHOTNUMBER  Tells the client to report back what the current snapshot number is
+CG_GETSNAPSHOT               Tells the client to give it a specific snapshot
+CG_GETSERVERCOMMAND          Tells the client to give it the server command (plaintext string)
+CG_GETCURRENTCMDNUMBER       Tells the client to give it a command number
+CG_GETUSERCMD                Tells the client to get an user command
+CG_SETUSERCMDVALUE           Tells the client to set a command value
+
+CG_REMOVECOMMAND,
+
+CG_CIN_* for playing movies/cinematic sequences
+
+CG_MEMSET     The basic memset() call like a normal C library has
+CG_MEMCPY     ^^^^
+CG_STRNCPY    ^^^^
+
+CG_SIN        and some basic math functions
+CG_COS,
+CG_ATAN2,
+CG_SQRT,
+CG_FLOOR,
+CG_CEIL
+
+And that's about it.  Aside from the basic C language features, that's your API that
+you have to create a mod with.
+
+
+For the client to interact with the cgame QVM, it's even more restricted.  I'll list them all since there are so few.
+
+CG_INIT  - The client calls this to start up the VM.  It is called on level loads and when the renderer is restarted.
+
+CG_SHUTDOWN - Close any resources associated with the QVM when the client is exiting
+
+CG_CONSOLE_COMMAND - When the client has a command that it doesn't recognize, it assumes it is a mod command and passes it along.
+  - The QVM will call CG_ARGC and CG_ARGV traps to get the data back from the client since it isn't passed
+
+CG_DRAW_ACTIVE_FRAME - Tells the QVM to generate and draw a game scene.  This is important because it updates cg/cgs and process snapshots here.
+
+CG_CROSSHAIR_PLAYER - Asks the cgame QVM what player is under the crosshair?
+
+CG_LAST_ATTACKER - Asks the cgame QVM who last attacked the client's user.
+
+CG_KEY_EVENT - The client received a key event and is passing it on to the QVM to interpret
+
+CG_MOUSE_EVENT - The client tells the QVM where the user's mouse moved to
+
+CG_EVENT_HANDLING - Very generic sounding function and it is.  There is a huge list of events.
+
+Other than that, there's no way for the client to request information from the QVM code.  They operate independently
+aside from these APIs.
+
+    code/cgame/cg_consolecmds.c
+    code/cgame/cg_draw.c
+    code/cgame/cg_drawtools.c
+    code/cgame/cg_effects.c
+    code/cgame/cg_ents.c
+    code/cgame/cg_event.c
+    code/cgame/cg_info.c
+    code/cgame/cg_localents.c
+    code/cgame/cg_local.h
+    code/cgame/cg_main.c
+    code/cgame/cg_marks.c
+    code/cgame/cg_newdraw.c
+    code/cgame/cg_particles.c
+    code/cgame/cg_players.c
+    code/cgame/cg_playerstate.c
+    code/cgame/cg_predict.c
+    code/cgame/cg_public.h
+    code/cgame/cg_scoreboard.c
+    code/cgame/cg_servercmds.c
+    code/cgame/cg_snapshot.c
+    code/cgame/cg_syscalls.asm
+    code/cgame/cg_syscalls.c
+    code/cgame/cg_view.c
+    code/cgame/cg_weapons.c
+

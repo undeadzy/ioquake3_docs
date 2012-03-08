@@ -1085,6 +1085,9 @@ release:
 	  OPTIMIZE="-DNDEBUG $(OPTIMIZE)" OPTIMIZEVM="-DNDEBUG $(OPTIMIZEVM)" \
 	  CLIENT_CFLAGS="$(CLIENT_CFLAGS)" SERVER_CFLAGS="$(SERVER_CFLAGS)" V=$(V)
 
+doc:
+	doxygen
+
 # Create the build directories, check libraries and print out
 # an informational message, then start building
 targets: makedirs

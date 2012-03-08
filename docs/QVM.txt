@@ -1,0 +1,51 @@
+As a high level for mods, there are three files of interest:
+
+qagame.qvm - The server side QVM
+cgame.qvm  - The client side QVM
+ui.qvm     - The user interface QVM
+
+and associated with these files are two programs
+
+client executable - runs client side operations and interacts with cgame/ui
+  The QVM/mod doesn't know or care how to play a sound file.  It tells the
+  client to register/load the sound through an API.
+
+  From the standpoint of the client, it doesn't care what the QVM code does.
+  It says "here is a standard list of APIs you can use to build a game" and
+  the QVM goes from there.
+
+server executable - runs the server side operations and interacts with qagame
+  The QVM/mod doesn't know the mechanism by which a server drops/kicks a
+  client.  It just knows it should be done so it uses the API.
+
+  Similarly, the server can run any mod but it doesn't know the rules of the
+  game.  The QVM code knows these details but since it's a QVM level
+  application, it cannot do things like open sockets that a game needs.  It
+  has to rely on the server to do this.
+
+
+The interface in both directions has a strict, static API.  The only way to
+change it is to make a standalone game where you control everything.
+These APIs are the only way to get data into or out of the QVM land.
+
+cgame.qvm
+  Interface is in code/cgame/cg_public.h
+  Also uses definitions from code/game/bg_public.h
+    cgameImport_t lists the functions that the QVM can use to interact with the client
+    cgameExport_t lists the functions that the client can use to call the QVM land
+
+qagame.qvm
+  Interface is in code/game/g_public.h
+  Also uses definitions from code/game/bg_public.h
+    gameImport_t lists the functions that the QVM can call to the server
+    gameExport_t lists the functions the server can use to call the QVM land
+
+ui.qvm
+  Interface is in code/ui/ui_public.h
+    uiImport_t lists the functions the QVM can call from the client
+    uiExport_t lists the functions the client can use to call QVM functionality   
+
+You'll notice that the *Export_t structures are far smaller.  There aren't a lot
+of ways to request operations from the QVM code.  It's mostly a one way street
+as the QVM makes requests and not the other way around.
+
