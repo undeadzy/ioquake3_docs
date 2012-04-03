@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structbot__waypoint__s.html" title="bot_waypoint_s" alt="" coords="503,269,615,299"/>
+<area shape="rect" id="node20" href="$structbot__settings__s.html" title="bot_settings_s" alt="" coords="505,440,612,469"/>
+<area shape="rect" id="node24" href="$structusercmd__s.html" title="usercmd_s" alt="" coords="516,75,601,104"/>
+<area shape="rect" id="node9" href="$structbot__goal__s.html" title="bot_goal_s" alt="" coords="223,316,308,345"/>
+<area shape="rect" id="node14" href="$structbot__activategoal__s.html" title="bot_activategoal_s" alt="" coords="493,535,624,564"/>
+<area shape="rect" id="node28" href="$structplayerState__s.html" title="playerState_s" alt="" coords="215,788,316,817"/>
+</map>

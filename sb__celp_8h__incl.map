@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$modes_8h.html" title="Describes the different modes of the codec." alt="" coords="92,160,164,189"/>
+<area shape="rect" id="node7" href="$speex__bits_8h.html" title="Handles bit packing/unpacking." alt="" coords="5,315,139,344"/>
+<area shape="rect" id="node20" href="$nb__celp_8h.html" title="Narrowband CELP encoder/decoder." alt="" coords="199,83,276,112"/>
+<area shape="rect" id="node5" href="$speex_8h.html" title="Describes the different modes of the codec." alt="" coords="187,237,293,267"/>
+<area shape="rect" id="node16" href="$arch_8h.html" title="Various architecture definitions Speex." alt="" coords="357,237,416,267"/>
+<area shape="rect" id="node9" href="$speex__types_8h.html" title="Speex types." alt="" coords="183,315,329,344"/>
+<area shape="rect" id="node11" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="163,392,349,421"/>
+<area shape="rect" id="node24" href="$speex__callbacks_8h.html" title="Describes callback handling and in&#45;band signalling." alt="" coords="188,160,356,189"/>
+<area shape="rect" id="node27" href="$vbr_8h.html" title="Variable Bit&#45;Rate (VBR) related routines." alt="" coords="380,160,431,189"/>
+<area shape="rect" id="node30" href="$filters_8h.html" title="Various analysis/synthesis filters." alt="" coords="455,160,519,189"/>
+</map>

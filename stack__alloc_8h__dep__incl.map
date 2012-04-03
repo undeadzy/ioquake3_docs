@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cb__search_8c.html" title="code/libspeex/cb_search.c" alt="" coords="5,83,181,112"/>
+<area shape="rect" id="node5" href="$filters_8c.html" title="code/libspeex/filters.c" alt="" coords="205,83,355,112"/>
+<area shape="rect" id="node7" href="$lsp_8c.html" title="code/libspeex/lsp.c" alt="" coords="379,83,512,112"/>
+<area shape="rect" id="node9" href="$ltp_8c.html" title="code/libspeex/ltp.c" alt="" coords="536,83,667,112"/>
+<area shape="rect" id="node11" href="$nb__celp_8c.html" title="code/libspeex/nb_celp.c" alt="" coords="691,83,853,112"/>
+<area shape="rect" id="node13" href="$sb__celp_8c.html" title="code/libspeex/sb_celp.c" alt="" coords="877,83,1040,112"/>
+<area shape="rect" id="node15" href="$vq_8c.html" title="code/libspeex/vq.c" alt="" coords="1064,83,1195,112"/>
+</map>

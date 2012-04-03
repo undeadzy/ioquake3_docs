@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cb__search_8c.html" title="code/libspeex/cb_search.c" alt="" coords="5,83,181,112"/>
+<area shape="rect" id="node5" href="$filters_8c.html" title="code/libspeex/filters.c" alt="" coords="205,83,355,112"/>
+<area shape="rect" id="node7" href="$ltp_8c.html" title="code/libspeex/ltp.c" alt="" coords="379,83,509,112"/>
+<area shape="rect" id="node9" href="$nb__celp_8h.html" title="Narrowband CELP encoder/decoder." alt="" coords="533,83,696,112"/>
+<area shape="rect" id="node17" href="$sb__celp_8c.html" title="code/libspeex/sb_celp.c" alt="" coords="737,237,900,267"/>
+<area shape="rect" id="node21" href="$nb__celp_8c.html" title="code/libspeex/nb_celp.c" alt="" coords="652,160,815,189"/>
+<area shape="rect" id="node11" href="$sb__celp_8h.html" title="Sub&#45;band CELP mode used for wideband encoding." alt="" coords="415,160,577,189"/>
+<area shape="rect" id="node13" href="$modes_8c.html" title="code/libspeex/modes.c" alt="" coords="525,237,680,267"/>
+<area shape="rect" id="node15" href="$modes__wb_8c.html" title="code/libspeex/modes_wb.c" alt="" coords="311,237,489,267"/>
+</map>

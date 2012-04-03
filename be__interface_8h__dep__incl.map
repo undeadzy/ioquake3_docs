@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$be__aas__debug_8c.html" title="code/botlib/be_aas_debug.c" alt="" coords="5,83,189,112"/>
+<area shape="rect" id="node5" href="$be__aas__entity_8c.html" title="code/botlib/be_aas_entity.c" alt="" coords="213,83,395,112"/>
+<area shape="rect" id="node7" href="$be__aas__file_8c.html" title="code/botlib/be_aas_file.c" alt="" coords="419,83,584,112"/>
+<area shape="rect" id="node9" href="$be__aas__main_8c.html" title="code/botlib/be_aas_main.c" alt="" coords="608,83,784,112"/>
+<area shape="rect" id="node11" href="$be__aas__optimize_8c.html" title="code/botlib/be_aas_optimize.c" alt="" coords="808,83,1005,112"/>
+<area shape="rect" id="node13" href="$be__aas__route_8c.html" title="code/botlib/be_aas_route.c" alt="" coords="1029,83,1208,112"/>
+<area shape="rect" id="node15" href="$be__aas__routealt_8c.html" title="code/botlib/be_aas_routealt.c" alt="" coords="1232,83,1424,112"/>
+<area shape="rect" id="node17" href="$be__aas__sample_8c.html" title="code/botlib/be_aas_sample.c" alt="" coords="1448,83,1637,112"/>
+<area shape="rect" id="node19" href="$be__ai__char_8c.html" title="code/botlib/be_ai_char.c" alt="" coords="1661,83,1824,112"/>
+<area shape="rect" id="node21" href="$be__ai__chat_8c.html" title="code/botlib/be_ai_chat.c" alt="" coords="1848,83,2011,112"/>
+<area shape="rect" id="node23" href="$be__ai__gen_8c.html" title="code/botlib/be_ai_gen.c" alt="" coords="2035,83,2192,112"/>
+<area shape="rect" id="node25" href="$be__ai__goal_8c.html" title="code/botlib/be_ai_goal.c" alt="" coords="2216,83,2379,112"/>
+<area shape="rect" id="node27" href="$be__ai__move_8c.html" title="code/botlib/be_ai_move.c" alt="" coords="2403,83,2573,112"/>
+<area shape="rect" id="node29" href="$be__ai__weap_8c.html" title="code/botlib/be_ai_weap.c" alt="" coords="2597,83,2765,112"/>
+<area shape="rect" id="node31" href="$be__ai__weight_8c.html" title="code/botlib/be_ai_weight.c" alt="" coords="2789,83,2965,112"/>
+<area shape="rect" id="node33" href="$be__ea_8c.html" title="code/botlib/be_ea.c" alt="" coords="2989,83,3123,112"/>
+<area shape="rect" id="node35" href="$be__interface_8c.html" title="code/botlib/be_interface.c" alt="" coords="3147,83,3317,112"/>
+<area shape="rect" id="node37" href="$l__crc_8c.html" title="code/botlib/l_crc.c" alt="" coords="3341,83,3469,112"/>
+<area shape="rect" id="node39" href="$l__log_8c.html" title="code/botlib/l_log.c" alt="" coords="3493,83,3619,112"/>
+<area shape="rect" id="node41" href="$l__memory_8c.html" title="code/botlib/l_memory.c" alt="" coords="3643,83,3800,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structdata__hunk.html" title="data_hunk" alt="" coords="359,373,442,403"/>
+<area shape="rect" id="node9" href="$structsrc__insn.html" title="src_insn" alt="" coords="610,373,679,403"/>
+<area shape="rect" id="node21" href="$structjump__insn.html" title="jump_insn" alt="" coords="67,101,147,131"/>
+<area shape="rect" id="node18" href="$structdst__insn.html" title="dst_insn" alt="" coords="111,373,180,403"/>
+</map>

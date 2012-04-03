@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$bits_8c.html" title="code/libspeex/bits.c" alt="" coords="5,83,144,112"/>
+<area shape="rect" id="node5" href="$buffer_8c.html" title="code/libspeex/buffer.c" alt="" coords="168,83,317,112"/>
+<area shape="rect" id="node7" href="$cb__search_8c.html" title="code/libspeex/cb_search.c" alt="" coords="341,83,517,112"/>
+<area shape="rect" id="node9" href="$fftwrap_8c.html" title="code/libspeex/fftwrap.c" alt="" coords="541,83,699,112"/>
+<area shape="rect" id="node11" href="$filterbank_8c.html" title="Converting between psd and filterbank." alt="" coords="723,83,893,112"/>
+<area shape="rect" id="node13" href="$jitter_8c.html" title="code/libspeex/jitter.c" alt="" coords="917,83,1059,112"/>
+<area shape="rect" id="node15" href="$kiss__fft_8c.html" title="code/libspeex/kiss_fft.c" alt="" coords="1083,83,1243,112"/>
+<area shape="rect" id="node17" href="$kiss__fftr_8c.html" title="code/libspeex/kiss_fftr.c" alt="" coords="1267,83,1429,112"/>
+<area shape="rect" id="node19" href="$ltp_8c.html" title="code/libspeex/ltp.c" alt="" coords="1453,83,1584,112"/>
+<area shape="rect" id="node21" href="$pseudofloat_8h.html" title="Pseudo&#45;floating point This header file provides a lightweight floating point type for use on fixed&#45;po..." alt="" coords="1608,83,1792,112"/>
+<area shape="rect" id="node23" href="$mdf_8c.html" title="code/libspeex/mdf.c" alt="" coords="1695,160,1833,189"/>
+<area shape="rect" id="node26" href="$modes__wb_8c.html" title="code/libspeex/modes_wb.c" alt="" coords="1867,83,2045,112"/>
+<area shape="rect" id="node28" href="$nb__celp_8c.html" title="code/libspeex/nb_celp.c" alt="" coords="2069,83,2232,112"/>
+<area shape="rect" id="node30" href="$preprocess_8c.html" title="code/libspeex/preprocess.c" alt="" coords="2256,83,2437,112"/>
+<area shape="rect" id="node32" href="$quant__lsp_8c.html" title="code/libspeex/quant_lsp.c" alt="" coords="2461,83,2635,112"/>
+<area shape="rect" id="node34" href="$resample_8c.html" title="code/libspeex/resample.c" alt="" coords="2659,83,2829,112"/>
+<area shape="rect" id="node36" href="$sb__celp_8c.html" title="code/libspeex/sb_celp.c" alt="" coords="2853,83,3016,112"/>
+<area shape="rect" id="node38" href="$smallft_8c.html" title="code/libspeex/smallft.c" alt="" coords="3040,83,3195,112"/>
+<area shape="rect" id="node40" href="$speex_8c.html" title="code/libspeex/speex.c" alt="" coords="3219,83,3371,112"/>
+<area shape="rect" id="node42" href="$speex__callbacks_8c.html" title="code/libspeex/speex_callbacks.c" alt="" coords="3395,83,3608,112"/>
+<area shape="rect" id="node44" href="$speex__header_8c.html" title="code/libspeex/speex_header.c" alt="" coords="3632,83,3829,112"/>
+<area shape="rect" id="node46" href="$stereo_8c.html" title="code/libspeex/stereo.c" alt="" coords="3853,83,4005,112"/>
+</map>

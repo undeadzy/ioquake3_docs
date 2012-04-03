@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structteamInfo.html" title="teamInfo" alt="" coords="765,602,837,631"/>
+<area shape="rect" id="node8" href="$structaliasInfo.html" title="aliasInfo" alt="" coords="1408,383,1477,412"/>
+<area shape="rect" id="node11" href="$structserverStatusInfo__t.html" title="serverStatusInfo_t" alt="" coords="737,791,865,820"/>
+<area shape="rect" id="node15" href="$structserverStatus__s.html" title="serverStatus_s" alt="" coords="1568,904,1677,934"/>
+<area shape="rect" id="node17" href="$structpinglist__t.html" title="pinglist_t" alt="" coords="764,860,839,890"/>
+<area shape="rect" id="node27" href="$structmodInfo__t.html" title="modInfo_t" alt="" coords="1403,72,1483,102"/>
+<area shape="rect" id="node30" href="$structtierInfo.html" title="tierInfo" alt="" coords="771,738,832,767"/>
+<area shape="rect" id="node35" href="$structmapInfo.html" title="mapInfo" alt="" coords="767,1326,836,1355"/>
+<area shape="rect" id="node40" href="$structcharacterInfo.html" title="characterInfo" alt="" coords="752,1379,851,1408"/>
+<area shape="rect" id="node46" href="$structdisplayContextDef__t.html" title="displayContextDef_t" alt="" coords="1552,2692,1693,2722"/>
+<area shape="rect" id="node50" href="$structglconfig__t.html" title="glconfig_t" alt="" coords="763,1996,840,2026"/>
+<area shape="rect" id="node61" href="$structcachedAssets__t.html" title="cachedAssets_t" alt="" coords="744,2423,859,2452"/>
+<area shape="rect" id="node125" href="$structgameTypeInfo.html" title="gameTypeInfo" alt="" coords="749,968,853,998"/>
+<area shape="rect" id="node129" href="$structpendingServerStatus__t.html" title="pendingServerStatus_t" alt="" coords="1365,1600,1520,1630"/>
+<area shape="rect" id="node21" href="$structnetadr__t.html" title="netadr_t" alt="" coords="767,914,836,943"/>
+</map>

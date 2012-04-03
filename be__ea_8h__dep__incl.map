@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$be__ai__chat_8c.html" title="code/botlib/be_ai_chat.c" alt="" coords="5,83,168,112"/>
+<area shape="rect" id="node5" href="$be__ai__move_8c.html" title="code/botlib/be_ai_move.c" alt="" coords="192,83,363,112"/>
+<area shape="rect" id="node7" href="$be__ea_8c.html" title="code/botlib/be_ea.c" alt="" coords="387,83,520,112"/>
+<area shape="rect" id="node9" href="$be__interface_8c.html" title="code/botlib/be_interface.c" alt="" coords="544,83,715,112"/>
+<area shape="rect" id="node11" href="$ai__chat_8c.html" title="code/game/ai_chat.c" alt="" coords="739,83,880,112"/>
+<area shape="rect" id="node13" href="$ai__cmd_8c.html" title="code/game/ai_cmd.c" alt="" coords="904,83,1045,112"/>
+<area shape="rect" id="node15" href="$ai__dmnet_8c.html" title="code/game/ai_dmnet.c" alt="" coords="1069,83,1224,112"/>
+<area shape="rect" id="node17" href="$ai__dmq3_8c.html" title="code/game/ai_dmq3.c" alt="" coords="1248,83,1397,112"/>
+<area shape="rect" id="node19" href="$ai__main_8c.html" title="code/game/ai_main.c" alt="" coords="1421,83,1568,112"/>
+<area shape="rect" id="node21" href="$ai__team_8c.html" title="code/game/ai_team.c" alt="" coords="1592,83,1739,112"/>
+<area shape="rect" id="node23" href="$ai__vcmd_8c.html" title="code/game/ai_vcmd.c" alt="" coords="1763,83,1912,112"/>
+</map>

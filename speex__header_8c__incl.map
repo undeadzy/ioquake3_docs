@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$arch_8h.html" title="Various architecture definitions Speex." alt="" coords="5,83,64,112"/>
+<area shape="rect" id="node11" href="$speex__header_8h.html" title="Describes the Speex header." alt="" coords="88,83,240,112"/>
+<area shape="rect" id="node14" href="$speex_8h.html" title="Describes the different modes of the codec." alt="" coords="264,83,371,112"/>
+<area shape="rect" id="node19" href="$os__support_8h.html" title="os_support.h" alt="" coords="437,83,533,112"/>
+<area shape="rect" id="node5" href="$speex__types_8h.html" title="Speex types." alt="" coords="80,160,227,189"/>
+<area shape="rect" id="node7" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="60,237,247,267"/>
+<area shape="rect" id="node16" href="$speex__bits_8h.html" title="Handles bit packing/unpacking." alt="" coords="251,160,384,189"/>
+</map>

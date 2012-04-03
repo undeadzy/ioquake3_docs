@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$modes_8h.html" title="Describes the different modes of the codec." alt="" coords="22,237,94,267"/>
+<area shape="rect" id="node16" href="$arch_8h.html" title="Various architecture definitions Speex." alt="" coords="466,315,525,344"/>
+<area shape="rect" id="node19" href="$ltp_8h.html" title="Long&#45;Term Prediction functions." alt="" coords="449,237,494,267"/>
+<area shape="rect" id="node23" href="$quant__lsp_8h.html" title="LSP vector quantization." alt="" coords="593,237,681,267"/>
+<area shape="rect" id="node27" href="$cb__search_8h.html" title="Overlapped codebook search." alt="" coords="705,237,798,267"/>
+<area shape="rect" id="node31" href="$sb__celp_8h.html" title="Sub&#45;band CELP mode used for wideband encoding." alt="" coords="108,83,185,112"/>
+<area shape="rect" id="node35" href="$nb__celp_8h.html" title="Narrowband CELP encoder/decoder." alt="" coords="214,160,292,189"/>
+<area shape="rect" id="node42" href="$vbr_8h.html" title="Variable Bit&#45;Rate (VBR) related routines." alt="" coords="518,237,569,267"/>
+<area shape="rect" id="node5" href="$speex_8h.html" title="Describes the different modes of the codec." alt="" coords="200,315,306,344"/>
+<area shape="rect" id="node7" href="$speex__bits_8h.html" title="Handles bit packing/unpacking." alt="" coords="186,392,320,421"/>
+<area shape="rect" id="node9" href="$speex__types_8h.html" title="Speex types." alt="" coords="382,392,529,421"/>
+<area shape="rect" id="node11" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="362,469,549,499"/>
+<area shape="rect" id="node39" href="$speex__callbacks_8h.html" title="Describes callback handling and in&#45;band signalling." alt="" coords="169,237,337,267"/>
+<area shape="rect" id="node45" href="$filters_8h.html" title="Various analysis/synthesis filters." alt="" coords="361,237,425,267"/>
+</map>

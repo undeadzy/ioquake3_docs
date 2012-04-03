@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ai__cmd_8c.html" title="code/game/ai_cmd.c" alt="" coords="5,83,147,112"/>
+<area shape="rect" id="node5" href="$ai__dmnet_8c.html" title="code/game/ai_dmnet.c" alt="" coords="171,83,325,112"/>
+<area shape="rect" id="node7" href="$ai__dmq3_8c.html" title="code/game/ai_dmq3.c" alt="" coords="349,83,499,112"/>
+<area shape="rect" id="node9" href="$ai__team_8c.html" title="code/game/ai_team.c" alt="" coords="523,83,669,112"/>
+<area shape="rect" id="node11" href="$ai__vcmd_8c.html" title="code/game/ai_vcmd.c" alt="" coords="693,83,843,112"/>
+</map>

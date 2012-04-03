@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cg__consolecmds_8c.html" title="code/cgame/cg_consolecmds.c" alt="" coords="5,83,211,112"/>
+<area shape="rect" id="node5" href="$cg__newdraw_8c.html" title="code/cgame/cg_newdraw.c" alt="" coords="235,83,416,112"/>
+<area shape="rect" id="node7" href="$ui_2ui__local_8h.html" title="code/ui/ui_local.h" alt="" coords="440,83,563,112"/>
+<area shape="rect" id="node19" href="$ui__shared_8c.html" title="code/ui/ui_shared.c" alt="" coords="587,83,720,112"/>
+<area shape="rect" id="node9" href="$ui_2ui__atoms_8c.html" title="code/ui/ui_atoms.c" alt="" coords="112,160,243,189"/>
+<area shape="rect" id="node11" href="$ui_2ui__gameinfo_8c.html" title="code/ui/ui_gameinfo.c" alt="" coords="267,160,416,189"/>
+<area shape="rect" id="node13" href="$ui_2ui__main_8c.html" title="code/ui/ui_main.c" alt="" coords="440,160,563,189"/>
+<area shape="rect" id="node15" href="$ui_2ui__players_8c.html" title="code/ui/ui_players.c" alt="" coords="587,160,725,189"/>
+<area shape="rect" id="node17" href="$ui__syscalls_8c.html" title="code/ui/ui_syscalls.c" alt="" coords="749,160,893,189"/>
+</map>

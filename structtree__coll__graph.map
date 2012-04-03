@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structnode.html" title="node" alt="" coords="1785,191,1836,220"/>
+<area shape="rect" id="node5" href="$structXnode.html" title="Xnode" alt="" coords="1780,437,1839,467"/>
+<area shape="rect" id="node15" href="$structsymbol.html" title="symbol" alt="" coords="992,437,1056,467"/>
+<area shape="rect" id="node23" href="$structXsymbol.html" title="Xsymbol" alt="" coords="1347,696,1419,725"/>
+<area shape="rect" id="node25" href="$structRegnode.html" title="Regnode" alt="" coords="1275,597,1349,627"/>
+<area shape="rect" id="node38" href="$structfield.html" title="field" alt="" coords="1631,696,1676,725"/>
+<area shape="rect" id="node17" href="$structcoord.html" title="coord" alt="" coords="1420,191,1473,220"/>
+<area shape="rect" id="node44" href="$structtype.html" title="type" alt="" coords="1555,597,1600,627"/>
+<area shape="rect" id="node53" href="$structXtype.html" title="Xtype" alt="" coords="1180,191,1236,220"/>
+<area shape="rect" id="node78" href="$structvalue.html" title="value" alt="" coords="159,191,212,220"/>
+<area shape="rect" id="node97" href="$structlist.html" title="list" alt="" coords="667,191,704,220"/>
+<area shape="rect" id="node61" href="$structtable.html" title="table" alt="" coords="932,696,983,725"/>
+<area shape="rect" id="node63" href="$structtable_1_1entry.html" title="table::entry" alt="" coords="741,597,827,627"/>
+</map>

@@ -1,0 +1,28 @@
+var structSBDecState =
+[
+    [ "encode_submode", "structSBDecState.html#ae225b38b7ab5d736f3f473487f89fc40", null ],
+    [ "exc_rms", "structSBDecState.html#ae9dcadaefe0d73516fefa45344ddc66b", null ],
+    [ "excBuf", "structSBDecState.html#ac68f2b2ea2145d791d3ac90dafb8c7b5", null ],
+    [ "first", "structSBDecState.html#ac61d6b1a3e871028af4d1df64992e1b2", null ],
+    [ "frame_size", "structSBDecState.html#ad3c09334b925fc5254e729f4c969eac9", null ],
+    [ "full_frame_size", "structSBDecState.html#a280704be4b00bb68f4e44b9b0d1c26e1", null ],
+    [ "g0_mem", "structSBDecState.html#a668855796f4dc8b977b2e3e0fc86a196", null ],
+    [ "g1_mem", "structSBDecState.html#ad551e40625b27356b3fc7f3785eda608", null ],
+    [ "innov_save", "structSBDecState.html#aa6b560ce3d1a3abf7a3ef1d9320a58b5", null ],
+    [ "interp_qlpc", "structSBDecState.html#a89b0f95f7bdca75176621928cfebb058", null ],
+    [ "last_ener", "structSBDecState.html#adb3f0a2e895b637d1c491d0568d7a725", null ],
+    [ "lpc_enh_enabled", "structSBDecState.html#a0f69ee629c874fb7341d202bb26f13f4", null ],
+    [ "lpcSize", "structSBDecState.html#a8c1bf4ace9fe43ad592fc549ddefe25d", null ],
+    [ "mem_sp", "structSBDecState.html#afb6fd022291eaf3e3310120f7bb59b09", null ],
+    [ "mode", "structSBDecState.html#a9957b50f01bb97410067bd9b85068d83", null ],
+    [ "nbSubframes", "structSBDecState.html#a5a603f7b0cf0c5e22faad681c64838d3", null ],
+    [ "old_qlsp", "structSBDecState.html#a39c8fc075d613fd4edb2348293720676", null ],
+    [ "pi_gain", "structSBDecState.html#ae73e30ffcda2ce16942870ea2de208dd", null ],
+    [ "sampling_rate", "structSBDecState.html#a80833138ceff8df21852d163a1f7c6ef", null ],
+    [ "seed", "structSBDecState.html#abdde9ff80fa2920a61badec419172027", null ],
+    [ "st_low", "structSBDecState.html#a3003c97a1e1f1260779b53b63ec4cc41", null ],
+    [ "stack", "structSBDecState.html#a6c2d8ef2123c10f9c7f01780f622b6fc", null ],
+    [ "subframeSize", "structSBDecState.html#a7f74123ec8a8590627baef1e7900c549", null ],
+    [ "submodeID", "structSBDecState.html#a917943f3da10ff0f789b21d6b8f9de5a", null ],
+    [ "submodes", "structSBDecState.html#a770a7e6737b9ee8e9242530795f7c660", null ]
+];

@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structc__derived__tbl.html" title="c_derived_tbl" alt="" coords="601,224,700,253"/>
+<area shape="rect" id="node59" href="$structjpeg__destination__mgr.html" title="jpeg_destination_mgr" alt="" coords="579,343,723,372"/>
+<area shape="rect" id="node11" href="$structsavable__state.html" title="savable_state" alt="" coords="259,101,360,131"/>
+<area shape="rect" id="node18" href="$structjpeg__compress__struct.html" title="jpeg_compress_struct" alt="" coords="884,955,1033,984"/>
+<area shape="rect" id="node22" href="$structJQUANT__TBL.html" title="JQUANT_TBL" alt="" coords="256,817,363,847"/>
+<area shape="rect" id="node36" href="$structjpeg__component__info.html" title="jpeg_component_info" alt="" coords="579,507,723,536"/>
+<area shape="rect" id="node9" href="$structjpeg__entropy__encoder.html" title="jpeg_entropy_encoder" alt="" coords="576,289,725,319"/>
+<area shape="rect" id="node26" href="$structJHUFF__TBL.html" title="JHUFF_TBL" alt="" coords="603,1307,699,1336"/>
+<area shape="rect" id="node31" href="$structjpeg__comp__master.html" title="jpeg_comp_master" alt="" coords="408,772,539,801"/>
+<area shape="rect" id="node47" href="$structjpeg__downsampler.html" title="jpeg_downsampler" alt="" coords="408,1116,539,1145"/>
+<area shape="rect" id="node65" href="$structjpeg__scan__info.html" title="jpeg_scan_info" alt="" coords="419,1056,528,1085"/>
+<area shape="rect" id="node20" href="$structjpeg__c__prep__controller.html" title="jpeg_c_prep_controller" alt="" coords="575,903,727,932"/>
+<area shape="rect" id="node50" href="$structjpeg__c__coef__controller.html" title="jpeg_c_coef_controller" alt="" coords="575,1573,727,1603"/>
+<area shape="rect" id="node52" href="$structjpeg__marker__writer.html" title="jpeg_marker_writer" alt="" coords="585,1627,716,1656"/>
+<area shape="rect" id="node55" href="$structjpeg__forward__dct.html" title="jpeg_forward_dct" alt="" coords="591,1467,711,1496"/>
+<area shape="rect" id="node63" href="$structjpeg__c__main__controller.html" title="jpeg_c_main_controller" alt="" coords="573,560,728,589"/>
+<area shape="rect" id="node71" href="$structjpeg__color__converter.html" title="jpeg_color_converter" alt="" coords="580,1413,721,1443"/>
+</map>

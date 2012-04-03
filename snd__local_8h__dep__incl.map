@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cl__avi_8c.html" title="code/client/cl_avi.c" alt="" coords="5,83,139,112"/>
+<area shape="rect" id="node5" href="$cl__cin_8c.html" title="code/client/cl_cin.c" alt="" coords="163,83,296,112"/>
+<area shape="rect" id="node7" href="$snd__adpcm_8c.html" title="code/client/snd_adpcm.c" alt="" coords="320,83,485,112"/>
+<area shape="rect" id="node9" href="$snd__dma_8c.html" title="code/client/snd_dma.c" alt="" coords="509,83,661,112"/>
+<area shape="rect" id="node11" href="$snd__main_8c.html" title="code/client/snd_main.c" alt="" coords="685,83,840,112"/>
+<area shape="rect" id="node13" href="$snd__mem_8c.html" title="code/client/snd_mem.c" alt="" coords="864,83,1021,112"/>
+<area shape="rect" id="node15" href="$snd__mix_8c.html" title="code/client/snd_mix.c" alt="" coords="1045,83,1195,112"/>
+<area shape="rect" id="node17" href="$snd__openal_8c.html" title="code/client/snd_openal.c" alt="" coords="1219,83,1384,112"/>
+<area shape="rect" id="node19" href="$snd__wavelet_8c.html" title="code/client/snd_wavelet.c" alt="" coords="1408,83,1581,112"/>
+<area shape="rect" id="node21" href="$sdl__snd_8c.html" title="code/sdl/sdl_snd.c" alt="" coords="1605,83,1736,112"/>
+</map>

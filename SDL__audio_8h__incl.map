@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$SDL__stdinc_8h.html" title="SDL_stdinc.h" alt="" coords="323,315,424,344"/>
+<area shape="rect" id="node14" href="$begin__code_8h.html" title="begin_code.h" alt="" coords="185,392,284,421"/>
+<area shape="rect" id="node16" href="$close__code_8h.html" title="close_code.h" alt="" coords="513,392,612,421"/>
+<area shape="rect" id="node18" href="$SDL__error_8h.html" title="SDL_error.h" alt="" coords="475,237,565,267"/>
+<area shape="rect" id="node23" href="$SDL__endian_8h.html" title="SDL_endian.h" alt="" coords="93,237,197,267"/>
+<area shape="rect" id="node28" href="$SDL__mutex_8h.html" title="SDL_mutex.h" alt="" coords="331,160,432,189"/>
+<area shape="rect" id="node34" href="$SDL__thread_8h.html" title="SDL_thread.h" alt="" coords="301,83,403,112"/>
+<area shape="rect" id="node41" href="$SDL__rwops_8h.html" title="SDL_rwops.h" alt="" coords="557,160,659,189"/>
+<area shape="rect" id="node5" href="$SDL__config_8h.html" title="SDL_config.h" alt="" coords="323,392,424,421"/>
+<area shape="rect" id="node7" href="$SDL__platform_8h.html" title="SDL_platform.h" alt="" coords="260,547,372,576"/>
+<area shape="rect" id="node9" href="$SDL__config__minimal_8h.html" title="SDL_config_minimal.h" alt="" coords="353,469,505,499"/>
+</map>

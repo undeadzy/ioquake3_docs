@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structaas__entity__s.html" title="aas_entity_s" alt="" coords="651,1329,747,1359"/>
+<area shape="rect" id="node4" href="$structaas__entityinfo__s.html" title="aas_entityinfo_s" alt="" coords="267,1131,384,1160"/>
+<area shape="rect" id="node26" href="$structaas__routingupdate__s.html" title="aas_routingupdate_s" alt="" coords="255,87,396,116"/>
+<area shape="rect" id="node35" href="$structaas__reachability__s.html" title="aas_reachability_s" alt="" coords="260,339,391,368"/>
+<area shape="rect" id="node40" href="$structaas__area__s.html" title="aas_area_s" alt="" coords="281,932,369,961"/>
+<area shape="rect" id="node50" href="$structaas__bbox__s.html" title="aas_bbox_s" alt="" coords="280,1481,371,1511"/>
+<area shape="rect" id="node61" href="$structaas__routingcache__s.html" title="aas_routingcache_s" alt="" coords="256,2440,395,2469"/>
+<area shape="rect" id="node90" href="$structaas__plane__s.html" title="aas_plane_s" alt="" coords="279,680,372,709"/>
+<area shape="rect" id="node10" href="$structaas__link__s.html" title="aas_link_s" alt="" coords="284,1424,367,1453"/>
+<area shape="rect" id="node14" href="$structbsp__link__s.html" title="bsp_link_s" alt="" coords="284,1277,367,1307"/>
+<area shape="rect" id="node18" href="$structaas__cluster__s.html" title="aas_cluster_s" alt="" coords="452,1859,553,1888"/>
+<area shape="rect" id="node21" href="$structaas__portal__s.html" title="aas_portal_s" alt="" coords="455,1895,551,1924"/>
+<area shape="rect" id="node44" href="$structaas__edge__s.html" title="aas_edge_s" alt="" coords="457,2287,548,2316"/>
+<area shape="rect" id="node47" href="$structaas__face__s.html" title="aas_face_s" alt="" coords="459,2039,547,2068"/>
+<area shape="rect" id="node58" href="$structaas__areasettings__s.html" title="aas_areasettings_s" alt="" coords="436,2167,569,2196"/>
+<area shape="rect" id="node74" href="$structaas__reversedreachability__s.html" title="aas_reversedreachability_s" alt="" coords="609,1613,788,1643"/>
+<area shape="rect" id="node77" href="$structaas__reversedlink__s.html" title="aas_reversedlink_s" alt="" coords="259,1692,392,1721"/>
+<area shape="rect" id="node83" href="$structaas__reachabilityareas__s.html" title="aas_reachabilityareas_s" alt="" coords="421,1945,584,1975"/>
+<area shape="rect" id="node87" href="$structaas__node__s.html" title="aas_node_s" alt="" coords="457,1520,548,1549"/>
+</map>

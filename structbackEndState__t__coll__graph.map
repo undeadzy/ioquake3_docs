@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structorientationr__t.html" title="orientationr_t" alt="" coords="605,233,701,263"/>
+<area shape="rect" id="node6" href="$structviewParms__t.html" title="viewParms_t" alt="" coords="845,493,944,523"/>
+<area shape="rect" id="node12" href="$structcplane__s.html" title="cplane_s" alt="" coords="616,493,691,523"/>
+<area shape="rect" id="node21" href="$structtrRefEntity__t.html" title="trRefEntity_t" alt="" coords="605,605,701,635"/>
+<area shape="rect" id="node25" href="$structrefEntity__t.html" title="refEntity_t" alt="" coords="316,804,399,833"/>
+<area shape="rect" id="node39" href="$structtrRefdef__t.html" title="trRefdef_t" alt="" coords="855,1001,935,1031"/>
+<area shape="rect" id="node46" href="$structpolyVert__t.html" title="polyVert_t" alt="" coords="317,1279,397,1308"/>
+<area shape="rect" id="node59" href="$structdlight__s.html" title="dlight_s" alt="" coords="324,1049,391,1079"/>
+<area shape="rect" id="node68" href="$structbackEndCounters__t.html" title="backEndCounters_t" alt="" coords="289,1335,425,1364"/>
+<area shape="rect" id="node41" href="$structsrfPoly__s.html" title="srfPoly_s" alt="" coords="615,1251,692,1280"/>
+<area shape="rect" id="node51" href="$structdrawSurf__s.html" title="drawSurf_s" alt="" coords="609,1145,697,1175"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structviewParms__t.html" title="viewParms_t" alt="" coords="563,381,661,411"/>
+<area shape="rect" id="node4" href="$structorientationr__t.html" title="orientationr_t" alt="" coords="297,775,393,804"/>
+<area shape="rect" id="node11" href="$structcplane__s.html" title="cplane_s" alt="" coords="308,381,383,411"/>
+<area shape="rect" id="node26" href="$structtrRefdef__t.html" title="trRefdef_t" alt="" coords="773,711,853,740"/>
+<area shape="rect" id="node33" href="$structpolyVert__t.html" title="polyVert_t" alt="" coords="305,1469,385,1499"/>
+<area shape="rect" id="node41" href="$structtrRefEntity__t.html" title="trRefEntity_t" alt="" coords="564,711,660,740"/>
+<area shape="rect" id="node45" href="$structrefEntity__t.html" title="refEntity_t" alt="" coords="304,521,387,551"/>
+<area shape="rect" id="node57" href="$structdlight__s.html" title="dlight_s" alt="" coords="312,1176,379,1205"/>
+<area shape="rect" id="node28" href="$structsrfPoly__s.html" title="srfPoly_s" alt="" coords="573,1517,651,1547"/>
+<area shape="rect" id="node20" href="$structdrawSurf__s.html" title="drawSurf_s" alt="" coords="568,159,656,188"/>
+</map>

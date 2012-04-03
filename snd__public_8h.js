@@ -1,0 +1,25 @@
+var snd__public_8h =
+[
+    [ "S_AddLoopingSound", "snd__public_8h.html#aa3dafe1e0f5fadcbf07afb9014f68a30", null ],
+    [ "S_AddRealLoopingSound", "snd__public_8h.html#a842794f934039ddc88f8a8a7aa389f7f", null ],
+    [ "S_BeginRegistration", "snd__public_8h.html#a406da854f31aaf80b448d7c7795f5272", null ],
+    [ "S_ClearLoopingSounds", "snd__public_8h.html#a541b2f976ce184b36a06f39c30a8c96b", null ],
+    [ "S_ClearSoundBuffer", "snd__public_8h.html#a2ee987527fcd3ce92171f1ae7fa8d62b", null ],
+    [ "S_DisableSounds", "snd__public_8h.html#a9e56e9e075fb9f083e021ebb2c4541ab", null ],
+    [ "S_DisplayFreeMemory", "snd__public_8h.html#aa062d6c29cfe831cb3b05cf8ce7176b7", null ],
+    [ "S_Init", "snd__public_8h.html#ac1655c6f06c98a675d19f0276948ee94", null ],
+    [ "S_RawSamples", "snd__public_8h.html#a340d42bf1fca6fe0b95b48977c347a46", null ],
+    [ "S_RegisterSound", "snd__public_8h.html#aaa410c65d43da091826564be1a728092", null ],
+    [ "S_Respatialize", "snd__public_8h.html#a27be84f3cf07cfe3901e9e7129220d73", null ],
+    [ "S_Shutdown", "snd__public_8h.html#aac090f65aaf5c223e863d37f43180d6f", null ],
+    [ "S_StartBackgroundTrack", "snd__public_8h.html#a6e485a6aaa68c6a7f3b0fba1d5a35be1", null ],
+    [ "S_StartLocalSound", "snd__public_8h.html#a9ca70b8f43c8647d03edb236b50ed109", null ],
+    [ "S_StartSound", "snd__public_8h.html#abffecf27cc00bf7eee35a7e7394537e6", null ],
+    [ "S_StopAllSounds", "snd__public_8h.html#a3b8faa2badf2d5800ebba1c18f9f464c", null ],
+    [ "S_StopBackgroundTrack", "snd__public_8h.html#ad9f2aca472cd88629fba5ef49590254c", null ],
+    [ "S_StopLoopingSound", "snd__public_8h.html#abfa591f99b563cfe3f19efbf14c3234b", null ],
+    [ "S_Update", "snd__public_8h.html#aecf10c237dad275ce57dc47fff338d12", null ],
+    [ "S_UpdateBackgroundTrack", "snd__public_8h.html#a556534b4caba4c4bf24316771d29301f", null ],
+    [ "S_UpdateEntityPosition", "snd__public_8h.html#ab5946fdb49bf4d303919e8de35e8b286", null ],
+    [ "SNDDMA_Activate", "snd__public_8h.html#a8d3b2c2ffe4531daff5d743924e6b6ea", null ]
+];

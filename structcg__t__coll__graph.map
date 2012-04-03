@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structsnapshot__t.html" title="snapshot_t" alt="" coords="228,1320,313,1349"/>
+<area shape="rect" id="node4" href="$structplayerState__s.html" title="playerState_s" alt="" coords="295,881,396,911"/>
+<area shape="rect" id="node10" href="$structentityState__s.html" title="entityState_s" alt="" coords="707,1097,805,1127"/>
+<area shape="rect" id="node14" href="$structtrajectory__t.html" title="trajectory_t" alt="" coords="556,692,641,721"/>
+<area shape="rect" id="node23" href="$structrefdef__t.html" title="refdef_t" alt="" coords="809,1320,876,1349"/>
+<area shape="rect" id="node39" href="$structrefEntity__t.html" title="refEntity_t" alt="" coords="1948,692,2031,721"/>
+<area shape="rect" id="node50" href="$structcentity__s.html" title="centity_s" alt="" coords="1107,1320,1181,1349"/>
+<area shape="rect" id="node52" href="$structplayerEntity__t.html" title="playerEntity_t" alt="" coords="1313,1097,1415,1127"/>
+<area shape="rect" id="node56" href="$structlerpFrame__t.html" title="lerpFrame_t" alt="" coords="1319,692,1409,721"/>
+<area shape="rect" id="node34" href="$structscore__t.html" title="score_t" alt="" coords="1833,692,1897,721"/>
+<area shape="rect" id="node58" href="$structanimation__s.html" title="animation_s" alt="" coords="1313,287,1404,316"/>
+</map>

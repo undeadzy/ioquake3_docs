@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$snd__local_8h.html" title="snd_local.h" alt="" coords="876,83,964,112"/>
+<area shape="rect" id="node39" href="$snd__codec_8h.html" title="snd_codec.h" alt="" coords="756,83,852,112"/>
+<area shape="rect" id="node43" href="$client_8h.html" title="client.h" alt="" coords="1121,83,1185,112"/>
+<area shape="rect" id="node5" href="$q__shared_8h.html" title="../qcommon/q_shared.h" alt="" coords="600,160,757,189"/>
+<area shape="rect" id="node31" href="$qcommon_8h.html" title="definitions common between client and server, but not game or ref modules" alt="" coords="781,160,944,189"/>
+<area shape="rect" id="node37" href="$snd__public_8h.html" title="snd_public.h" alt="" coords="968,160,1061,189"/>
+<area shape="rect" id="node27" href="$q__platform_8h.html" title="q_platform.h" alt="" coords="93,237,187,267"/>
+<area shape="rect" id="node29" href="$surfaceflags_8h.html" title="surfaceflags.h" alt="" coords="211,237,315,267"/>
+<area shape="rect" id="node33" href="$cm__public_8h.html" title="../qcommon/cm_public.h" alt="" coords="1131,237,1296,267"/>
+<area shape="rect" id="node35" href="$qfiles_8h.html" title="qfiles.h" alt="" coords="1181,315,1245,344"/>
+<area shape="rect" id="node47" href="$tr__public_8h.html" title="../renderer/tr_public.h" alt="" coords="1245,160,1389,189"/>
+<area shape="rect" id="node51" href="$ui__public_8h.html" title="../ui/ui_public.h" alt="" coords="1413,160,1523,189"/>
+<area shape="rect" id="node53" href="$keys_8h.html" title="keys.h" alt="" coords="1547,160,1608,189"/>
+<area shape="rect" id="node58" href="$cg__public_8h.html" title="../cgame/cg_public.h" alt="" coords="1632,160,1773,189"/>
+<area shape="rect" id="node60" href="$bg__public_8h.html" title="../game/bg_public.h" alt="" coords="1085,160,1221,189"/>
+<area shape="rect" id="node49" href="$tr__types_8h.html" title="tr_types.h" alt="" coords="1320,237,1400,267"/>
+<area shape="rect" id="node55" href="$keycodes_8h.html" title="keycodes.h" alt="" coords="1533,237,1621,267"/>
+</map>

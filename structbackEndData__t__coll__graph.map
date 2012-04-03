@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structsrfPoly__s.html" title="srfPoly_s" alt="" coords="237,357,315,387"/>
+<area shape="rect" id="node20" href="$structtrRefEntity__t.html" title="trRefEntity_t" alt="" coords="555,357,651,387"/>
+<area shape="rect" id="node24" href="$structrefEntity__t.html" title="refEntity_t" alt="" coords="804,241,887,271"/>
+<area shape="rect" id="node37" href="$structdlight__s.html" title="dlight_s" alt="" coords="364,241,431,271"/>
+<area shape="rect" id="node41" href="$structrenderCommandList__t.html" title="renderCommandList_t" alt="" coords="675,357,824,387"/>
+<area shape="rect" id="node8" href="$structpolyVert__t.html" title="polyVert_t" alt="" coords="5,241,85,271"/>
+<area shape="rect" id="node14" href="$structdrawSurf__s.html" title="drawSurf_s" alt="" coords="1368,357,1456,387"/>
+</map>

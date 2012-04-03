@@ -1,0 +1,28 @@
+var structuiStatic__t =
+[
+    [ "activemenu", "structuiStatic__t.html#aba5608c8d598a37aad1cd4a46872d19a", null ],
+    [ "bias", "structuiStatic__t.html#a63b238feaa1614d3ab76325c2e0a5236", null ],
+    [ "charset", "structuiStatic__t.html#a7b3d684141023142e333dbbfbc9aacfe", null ],
+    [ "charsetProp", "structuiStatic__t.html#a9002e555b5bd779f80377f21e6913dd9", null ],
+    [ "charsetPropB", "structuiStatic__t.html#aba192880be549dfc9d12139cce856465", null ],
+    [ "charsetPropGlow", "structuiStatic__t.html#aea9c4cfc7a8d0751b71b2fa7fabdb764", null ],
+    [ "cursor", "structuiStatic__t.html#a191a22240898307e860a2641f1ad0e48", null ],
+    [ "cursorx", "structuiStatic__t.html#a44c0fddbb29c15a07aebd9875ff78cd7", null ],
+    [ "cursory", "structuiStatic__t.html#a56b4543ea3838ee0bd43dfadc2089867", null ],
+    [ "debug", "structuiStatic__t.html#ab4df948451fe06a31b96bdfbe31d76c2", null ],
+    [ "demoversion", "structuiStatic__t.html#ad8bf2fa0fc91f9561ac1701a4a1d4cb8", null ],
+    [ "firstdraw", "structuiStatic__t.html#a1061716db4a66f52e6d7dde3c6f2d3a7", null ],
+    [ "frametime", "structuiStatic__t.html#a63c27c08294d00e00066216fe239e6ac", null ],
+    [ "glconfig", "structuiStatic__t.html#abe713acaec4b64a63e675b1c299d014a", null ],
+    [ "menuBackNoLogoShader", "structuiStatic__t.html#ae258d093223ef8c8c73bd92514789a7d", null ],
+    [ "menuBackShader", "structuiStatic__t.html#a331d3986118ba7e584b02c029ef09eeb", null ],
+    [ "menusp", "structuiStatic__t.html#ab3f3e43fd2f339fa58990c6839fe8c48", null ],
+    [ "rb_off", "structuiStatic__t.html#ad18d0e834c991a74590ad5f07869cb9f", null ],
+    [ "rb_on", "structuiStatic__t.html#ae995d3689435f2172ddfc54708e733c3", null ],
+    [ "realtime", "structuiStatic__t.html#a7b2aaaf2ee419c5ef9b7b51c7d70d207", null ],
+    [ "scale", "structuiStatic__t.html#af2f3d722bc5ba0136cab0bd12ad87aa6", null ],
+    [ "stack", "structuiStatic__t.html#aa7a49e404bdc1de2a687df638ad0725e", null ],
+    [ "whiteShader", "structuiStatic__t.html#a199d2e20a61402d162b3a5693af3ebd3", null ],
+    [ "xscale", "structuiStatic__t.html#a52932e9cdf4a8edc1a5d1b14aed4810a", null ],
+    [ "yscale", "structuiStatic__t.html#a1fda84ee0bd837b4acdef808b4663dd2", null ]
+];

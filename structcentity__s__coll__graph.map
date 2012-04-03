@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structplayerEntity__t.html" title="playerEntity_t" alt="" coords="317,859,418,888"/>
+<area shape="rect" id="node8" href="$structlerpFrame__t.html" title="lerpFrame_t" alt="" coords="322,604,413,633"/>
+<area shape="rect" id="node20" href="$structentityState__s.html" title="entityState_s" alt="" coords="805,859,904,888"/>
+<area shape="rect" id="node24" href="$structtrajectory__t.html" title="trajectory_t" alt="" coords="940,604,1025,633"/>
+<area shape="rect" id="node10" href="$structanimation__s.html" title="animation_s" alt="" coords="469,243,560,272"/>
+</map>

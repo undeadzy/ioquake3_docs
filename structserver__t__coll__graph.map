@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structsharedEntity__t.html" title="sharedEntity_t" alt="" coords="207,984,313,1013"/>
+<area shape="rect" id="node4" href="$structentityShared__t.html" title="entityShared_t" alt="" coords="207,888,313,917"/>
+<area shape="rect" id="node10" href="$structentityState__s.html" title="entityState_s" alt="" coords="132,619,231,648"/>
+<area shape="rect" id="node14" href="$structtrajectory__t.html" title="trajectory_t" alt="" coords="43,356,128,385"/>
+<area shape="rect" id="node23" href="$structplayerState__s.html" title="playerState_s" alt="" coords="732,356,833,385"/>
+<area shape="rect" id="node30" href="$structcmodel__s.html" title="cmodel_s" alt="" coords="917,619,995,648"/>
+<area shape="rect" id="node40" href="$structworldSector__s.html" title="worldSector_s" alt="" coords="477,984,581,1013"/>
+<area shape="rect" id="node33" href="$structcLeaf__t.html" title="cLeaf_t" alt="" coords="943,356,1007,385"/>
+<area shape="rect" id="node38" href="$structsvEntity__s.html" title="svEntity_s" alt="" coords="404,888,487,917"/>
+</map>

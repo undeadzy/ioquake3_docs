@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$sv__bot_8c.html" title="code/server/sv_bot.c" alt="" coords="5,83,149,112"/>
+<area shape="rect" id="node5" href="$sv__ccmds_8c.html" title="code/server/sv_ccmds.c" alt="" coords="173,83,339,112"/>
+<area shape="rect" id="node7" href="$sv__client_8c.html" title="code/server/sv_client.c" alt="" coords="363,83,520,112"/>
+<area shape="rect" id="node9" href="$sv__game_8c.html" title="code/server/sv_game.c" alt="" coords="544,83,701,112"/>
+<area shape="rect" id="node11" href="$sv__init_8c.html" title="code/server/sv_init.c" alt="" coords="725,83,867,112"/>
+<area shape="rect" id="node13" href="$sv__main_8c.html" title="code/server/sv_main.c" alt="" coords="891,83,1045,112"/>
+<area shape="rect" id="node15" href="$sv__net__chan_8c.html" title="code/server/sv_net_chan.c" alt="" coords="1069,83,1248,112"/>
+<area shape="rect" id="node17" href="$sv__rankings_8c.html" title="code/server/sv_rankings.c" alt="" coords="1272,83,1445,112"/>
+<area shape="rect" id="node19" href="$sv__snapshot_8c.html" title="code/server/sv_snapshot.c" alt="" coords="1469,83,1648,112"/>
+<area shape="rect" id="node21" href="$sv__world_8c.html" title="code/server/sv_world.c" alt="" coords="1672,83,1829,112"/>
+</map>

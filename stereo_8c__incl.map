@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$speex__stereo_8h.html" title="Describes the handling for intensity stereo." alt="" coords="5,160,155,189"/>
+<area shape="rect" id="node13" href="$speex__callbacks_8h.html" title="Describes callback handling and in&#45;band signalling." alt="" coords="117,83,285,112"/>
+<area shape="rect" id="node19" href="$math__approx_8h.html" title="Various math approximation functions for Speex." alt="" coords="309,83,416,112"/>
+<area shape="rect" id="node24" href="$vq_8h.html" title="Vector quantization." alt="" coords="440,83,485,112"/>
+<area shape="rect" id="node29" href="$os__support_8h.html" title="os_support.h" alt="" coords="595,83,691,112"/>
+<area shape="rect" id="node5" href="$speex__types_8h.html" title="Speex types." alt="" coords="171,237,317,267"/>
+<area shape="rect" id="node11" href="$speex__bits_8h.html" title="Handles bit packing/unpacking." alt="" coords="13,237,147,267"/>
+<area shape="rect" id="node7" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="151,315,337,344"/>
+<area shape="rect" id="node15" href="$speex_8h.html" title="Describes the different modes of the codec." alt="" coords="179,160,245,189"/>
+<area shape="rect" id="node21" href="$arch_8h.html" title="Various architecture definitions Speex." alt="" coords="333,160,392,189"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cl__main_8c.html" title="code/client/cl_main.c" alt="" coords="5,83,149,112"/>
+<area shape="rect" id="node5" href="$sdl__glimp_8c.html" title="code/sdl/sdl_glimp.c" alt="" coords="173,83,315,112"/>
+<area shape="rect" id="node7" href="$sdl__input_8c.html" title="code/sdl/sdl_input.c" alt="" coords="339,83,477,112"/>
+<area shape="rect" id="node9" href="$con__log_8c.html" title="code/sys/con_log.c" alt="" coords="501,83,635,112"/>
+<area shape="rect" id="node11" href="$con__passive_8c.html" title="code/sys/con_passive.c" alt="" coords="659,83,821,112"/>
+<area shape="rect" id="node13" href="$con__tty_8c.html" title="code/sys/con_tty.c" alt="" coords="845,83,979,112"/>
+<area shape="rect" id="node15" href="$con__win32_8c.html" title="code/sys/con_win32.c" alt="" coords="1003,83,1155,112"/>
+<area shape="rect" id="node17" href="$sys__main_8c.html" title="code/sys/sys_main.c" alt="" coords="1179,83,1325,112"/>
+<area shape="rect" id="node19" href="$sys__osx_8m.html" title="code/sys/sys_osx.m" alt="" coords="1349,83,1491,112"/>
+<area shape="rect" id="node21" href="$sys__unix_8c.html" title="code/sys/sys_unix.c" alt="" coords="1515,83,1656,112"/>
+<area shape="rect" id="node23" href="$sys__win32_8c.html" title="code/sys/sys_win32.c" alt="" coords="1680,83,1832,112"/>
+</map>

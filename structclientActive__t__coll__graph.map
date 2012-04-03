@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structgameState__t.html" title="gameState_t" alt="" coords="279,709,375,739"/>
+<area shape="rect" id="node11" href="$structusercmd__s.html" title="usercmd_s" alt="" coords="169,709,255,739"/>
+<area shape="rect" id="node8" href="$structoutPacket__t.html" title="outPacket_t" alt="" coords="549,572,640,601"/>
+<area shape="rect" id="node18" href="$structclSnapshot__t.html" title="clSnapshot_t" alt="" coords="815,709,913,739"/>
+<area shape="rect" id="node20" href="$structplayerState__s.html" title="playerState_s" alt="" coords="861,356,963,385"/>
+<area shape="rect" id="node29" href="$structentityState__s.html" title="entityState_s" alt="" coords="1135,709,1233,739"/>
+<area shape="rect" id="node33" href="$structtrajectory__t.html" title="trajectory_t" alt="" coords="1328,356,1413,385"/>
+</map>

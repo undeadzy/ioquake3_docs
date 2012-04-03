@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cg__consolecmds_8c.html" title="code/cgame/cg_consolecmds.c" alt="" coords="5,83,211,112"/>
+<area shape="rect" id="node5" href="$cg__draw_8c.html" title="code/cgame/cg_draw.c" alt="" coords="235,83,392,112"/>
+<area shape="rect" id="node7" href="$cg__drawtools_8c.html" title="code/cgame/cg_drawtools.c" alt="" coords="416,83,600,112"/>
+<area shape="rect" id="node9" href="$cg__effects_8c.html" title="code/cgame/cg_effects.c" alt="" coords="624,83,792,112"/>
+<area shape="rect" id="node11" href="$cg__ents_8c.html" title="code/cgame/cg_ents.c" alt="" coords="816,83,971,112"/>
+<area shape="rect" id="node13" href="$cg__event_8c.html" title="code/cgame/cg_event.c" alt="" coords="995,83,1155,112"/>
+<area shape="rect" id="node15" href="$cg__info_8c.html" title="code/cgame/cg_info.c" alt="" coords="1179,83,1328,112"/>
+<area shape="rect" id="node17" href="$cg__localents_8c.html" title="code/cgame/cg_localents.c" alt="" coords="1352,83,1533,112"/>
+<area shape="rect" id="node19" href="$cg__main_8c.html" title="code/cgame/cg_main.c" alt="" coords="1557,83,1715,112"/>
+<area shape="rect" id="node21" href="$cg__marks_8c.html" title="code/cgame/cg_marks.c" alt="" coords="1739,83,1904,112"/>
+<area shape="rect" id="node23" href="$cg__newdraw_8c.html" title="code/cgame/cg_newdraw.c" alt="" coords="1928,83,2109,112"/>
+<area shape="rect" id="node25" href="$cg__particles_8c.html" title="code/cgame/cg_particles.c" alt="" coords="2133,83,2312,112"/>
+<area shape="rect" id="node27" href="$cg__players_8c.html" title="code/cgame/cg_players.c" alt="" coords="2336,83,2507,112"/>
+<area shape="rect" id="node29" href="$cg__playerstate_8c.html" title="code/cgame/cg_playerstate.c" alt="" coords="2531,83,2723,112"/>
+<area shape="rect" id="node31" href="$cg__predict_8c.html" title="code/cgame/cg_predict.c" alt="" coords="2747,83,2915,112"/>
+<area shape="rect" id="node33" href="$cg__scoreboard_8c.html" title="code/cgame/cg_scoreboard.c" alt="" coords="2939,83,3131,112"/>
+<area shape="rect" id="node35" href="$cg__servercmds_8c.html" title="code/cgame/cg_servercmds.c" alt="" coords="3155,83,3352,112"/>
+<area shape="rect" id="node37" href="$cg__snapshot_8c.html" title="code/cgame/cg_snapshot.c" alt="" coords="3376,83,3557,112"/>
+<area shape="rect" id="node39" href="$cg__syscalls_8c.html" title="code/cgame/cg_syscalls.c" alt="" coords="3581,83,3757,112"/>
+<area shape="rect" id="node41" href="$cg__view_8c.html" title="code/cgame/cg_view.c" alt="" coords="3781,83,3936,112"/>
+<area shape="rect" id="node43" href="$cg__weapons_8c.html" title="code/cgame/cg_weapons.c" alt="" coords="3960,83,4141,112"/>
+</map>

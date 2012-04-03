@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node6" href="$structshader__s.html" title="shader_s" alt="" coords="1365,1260,1440,1289"/>
+<area shape="rect" id="node8" href="$structdeformStage__t.html" title="deformStage_t" alt="" coords="537,289,644,319"/>
+<area shape="rect" id="node13" href="$structwaveForm__t.html" title="waveForm_t" alt="" coords="245,369,339,399"/>
+<area shape="rect" id="node23" href="$structskyParms__t.html" title="skyParms_t" alt="" coords="788,1359,879,1388"/>
+<area shape="rect" id="node39" href="$structfogParms__t.html" title="fogParms_t" alt="" coords="392,1573,480,1603"/>
+<area shape="rect" id="node50" href="$structtextureBundle__t.html" title="textureBundle_t" alt="" coords="777,453,889,483"/>
+<area shape="rect" id="node52" href="$structtexModInfo__t.html" title="texModInfo_t" alt="" coords="541,507,640,536"/>
+<area shape="rect" id="node25" href="$structimage__s.html" title="image_s" alt="" coords="556,1160,625,1189"/>
+<area shape="rect" id="node44" href="$structshaderStage__t.html" title="shaderStage_t" alt="" coords="1059,584,1165,613"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ui__shared_8h.html" title="code/ui/ui_shared.h" alt="" coords="347,83,480,112"/>
+<area shape="rect" id="node23" href="$cg__servercmds_8c.html" title="code/cgame/cg_servercmds.c" alt="" coords="504,83,701,112"/>
+<area shape="rect" id="node25" href="$ai__cmd_8c.html" title="code/game/ai_cmd.c" alt="" coords="725,83,867,112"/>
+<area shape="rect" id="node27" href="$ai__dmnet_8c.html" title="code/game/ai_dmnet.c" alt="" coords="891,83,1045,112"/>
+<area shape="rect" id="node29" href="$ai__dmq3_8c.html" title="code/game/ai_dmq3.c" alt="" coords="1069,83,1219,112"/>
+<area shape="rect" id="node31" href="$ai__team_8c.html" title="code/game/ai_team.c" alt="" coords="1243,83,1389,112"/>
+<area shape="rect" id="node33" href="$ai__vcmd_8c.html" title="code/game/ai_vcmd.c" alt="" coords="1413,83,1563,112"/>
+<area shape="rect" id="node35" href="$g__cmds_8c.html" title="code/game/g_cmds.c" alt="" coords="1587,83,1733,112"/>
+<area shape="rect" id="node5" href="$cg__consolecmds_8c.html" title="code/cgame/cg_consolecmds.c" alt="" coords="5,160,211,189"/>
+<area shape="rect" id="node7" href="$cg__newdraw_8c.html" title="code/cgame/cg_newdraw.c" alt="" coords="235,160,416,189"/>
+<area shape="rect" id="node9" href="$ui_2ui__local_8h.html" title="code/ui/ui_local.h" alt="" coords="440,160,563,189"/>
+<area shape="rect" id="node21" href="$ui__shared_8c.html" title="code/ui/ui_shared.c" alt="" coords="587,160,720,189"/>
+<area shape="rect" id="node11" href="$ui_2ui__atoms_8c.html" title="code/ui/ui_atoms.c" alt="" coords="112,237,243,267"/>
+<area shape="rect" id="node13" href="$ui_2ui__gameinfo_8c.html" title="code/ui/ui_gameinfo.c" alt="" coords="267,237,416,267"/>
+<area shape="rect" id="node15" href="$ui_2ui__main_8c.html" title="code/ui/ui_main.c" alt="" coords="440,237,563,267"/>
+<area shape="rect" id="node17" href="$ui_2ui__players_8c.html" title="code/ui/ui_players.c" alt="" coords="587,237,725,267"/>
+<area shape="rect" id="node19" href="$ui__syscalls_8c.html" title="code/ui/ui_syscalls.c" alt="" coords="749,237,893,267"/>
+</map>

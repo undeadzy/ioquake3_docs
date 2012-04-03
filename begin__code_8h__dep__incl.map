@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$SDL__stdinc_8h.html" title="code/SDL12/include/SDL_stdinc.h" alt="" coords="1995,83,2216,112"/>
+<area shape="rect" id="node7" href="$SDL_8h.html" title="code/SDL12/include/SDL.h" alt="" coords="2495,547,2673,576"/>
+<area shape="rect" id="node25" href="$SDL__audio_8h.html" title="code/SDL12/include/SDL_audio.h" alt="" coords="709,392,928,421"/>
+<area shape="rect" id="node28" href="$SDL__error_8h.html" title="code/SDL12/include/SDL_error.h" alt="" coords="1552,160,1765,189"/>
+<area shape="rect" id="node31" href="$SDL__mutex_8h.html" title="code/SDL12/include/SDL_mutex.h" alt="" coords="944,237,1165,267"/>
+<area shape="rect" id="node34" href="$SDL__thread_8h.html" title="code/SDL12/include/SDL_thread.h" alt="" coords="1005,315,1227,344"/>
+<area shape="rect" id="node40" href="$SDL__rwops_8h.html" title="code/SDL12/include/SDL_rwops.h" alt="" coords="597,237,819,267"/>
+<area shape="rect" id="node43" href="$SDL__video_8h.html" title="code/SDL12/include/SDL_video.h" alt="" coords="1251,315,1469,344"/>
+<area shape="rect" id="node45" href="$SDL__mouse_8h.html" title="code/SDL12/include/SDL_mouse.h" alt="" coords="1544,392,1771,421"/>
+<area shape="rect" id="node47" href="$SDL__events_8h.html" title="code/SDL12/include/SDL_events.h" alt="" coords="2247,469,2473,499"/>
+<area shape="rect" id="node52" href="$SDL__cdrom_8h.html" title="code/SDL12/include/SDL_cdrom.h" alt="" coords="2845,237,3067,267"/>
+<area shape="rect" id="node57" href="$SDL__active_8h.html" title="code/SDL12/include/SDL_active.h" alt="" coords="1696,237,1917,267"/>
+<area shape="rect" id="node60" href="$SDL__keyboard_8h.html" title="code/SDL12/include/SDL_keyboard.h" alt="" coords="1941,237,2181,267"/>
+<area shape="rect" id="node65" href="$SDL__joystick_8h.html" title="code/SDL12/include/SDL_joystick.h" alt="" coords="2539,237,2771,267"/>
+<area shape="rect" id="node71" href="$SDL__loadso_8h.html" title="code/SDL12/include/SDL_loadso.h" alt="" coords="3547,237,3771,267"/>
+<area shape="rect" id="node75" href="$SDL__timer_8h.html" title="code/SDL12/include/SDL_timer.h" alt="" coords="357,237,573,267"/>
+<area shape="rect" id="node78" href="$SDL__syswm_8h.html" title="code/SDL12/include/SDL_syswm.h" alt="" coords="3192,237,3421,267"/>
+<area shape="rect" id="node80" href="$SDL__endian_8h.html" title="code/SDL12/include/SDL_endian.h" alt="" coords="101,160,325,189"/>
+<area shape="rect" id="node90" href="$SDL__cpuinfo_8h.html" title="code/SDL12/include/SDL_cpuinfo.h" alt="" coords="3267,315,3496,344"/>
+<area shape="rect" id="node103" href="$SDL__version_8h.html" title="code/SDL12/include/SDL_version.h" alt="" coords="3192,160,3421,189"/>
+<area shape="rect" id="node5" href="$SDL__main_8h.html" title="code/SDL12/include/SDL_main.h" alt="" coords="2947,469,3160,499"/>
+<area shape="rect" id="node68" href="$SDL__quit_8h.html" title="code/SDL12/include/SDL_quit.h" alt="" coords="2256,237,2464,267"/>
+<area shape="rect" id="node107" href="$SDL__getenv_8h.html" title="code/SDL12/include/SDL_getenv.h" alt="" coords="2044,160,2271,189"/>
+<area shape="rect" id="node110" href="$SDL__types_8h.html" title="code/SDL12/include/SDL_types.h" alt="" coords="2295,160,2513,189"/>
+<area shape="rect" id="node9" href="$sys__loadlib_8h.html" title="code/sys/sys_loadlib.h" alt="" coords="3947,624,4101,653"/>
+<area shape="rect" id="node13" href="$sys__main_8c.html" title="code/sys/sys_main.c" alt="" coords="3808,701,3955,731"/>
+<area shape="rect" id="node15" href="$sdl__gamma_8c.html" title="code/sdl/sdl_gamma.c" alt="" coords="2423,624,2575,653"/>
+<area shape="rect" id="node17" href="$sdl__glimp_8c.html" title="code/sdl/sdl_glimp.c" alt="" coords="2599,624,2740,653"/>
+<area shape="rect" id="node19" href="$sdl__input_8c.html" title="code/sdl/sdl_input.c" alt="" coords="2764,624,2903,653"/>
+<area shape="rect" id="node21" href="$sdl__snd_8c.html" title="code/sdl/sdl_snd.c" alt="" coords="2927,624,3057,653"/>
+<area shape="rect" id="node11" href="$cl__main_8c.html" title="code/client/cl_main.c" alt="" coords="3979,701,4123,731"/>
+<area shape="rect" id="node84" href="$SDL__byteorder_8h.html" title="code/SDL12/include/SDL_byteorder.h" alt="" coords="93,237,333,267"/>
+</map>

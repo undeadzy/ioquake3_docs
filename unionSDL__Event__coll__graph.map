@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structSDL__JoyHatEvent.html" title="SDL_JoyHatEvent" alt="" coords="413,619,544,648"/>
+<area shape="rect" id="node7" href="$structSDL__UserEvent.html" title="SDL_UserEvent" alt="" coords="581,765,699,795"/>
+<area shape="rect" id="node14" href="$structSDL__MouseMotionEvent.html" title="SDL_MouseMotionEvent" alt="" coords="223,840,388,869"/>
+<area shape="rect" id="node21" href="$structSDL__KeyboardEvent.html" title="SDL_KeyboardEvent" alt="" coords="568,556,712,585"/>
+<area shape="rect" id="node24" href="$structSDL__keysym.html" title="SDL_keysym" alt="" coords="255,107,356,136"/>
+<area shape="rect" id="node32" href="$structSDL__JoyButtonEvent.html" title="SDL_JoyButtonEvent" alt="" coords="737,1204,884,1233"/>
+<area shape="rect" id="node35" href="$structSDL__SysWMEvent.html" title="SDL_SysWMEvent" alt="" coords="909,888,1045,917"/>
+<area shape="rect" id="node40" href="$structSDL__version.html" title="SDL_version" alt="" coords="257,997,353,1027"/>
+<area shape="rect" id="node44" href="$structSDL__QuitEvent.html" title="SDL_QuitEvent" alt="" coords="423,389,535,419"/>
+<area shape="rect" id="node47" href="$structSDL__JoyBallEvent.html" title="SDL_JoyBallEvent" alt="" coords="240,1284,371,1313"/>
+<area shape="rect" id="node51" href="$structSDL__ActiveEvent.html" title="SDL_ActiveEvent" alt="" coords="748,463,873,492"/>
+<area shape="rect" id="node54" href="$structSDL__MouseButtonEvent.html" title="SDL_MouseButtonEvent" alt="" coords="223,316,388,345"/>
+<area shape="rect" id="node58" href="$structSDL__JoyAxisEvent.html" title="SDL_JoyAxisEvent" alt="" coords="237,1368,373,1397"/>
+<area shape="rect" id="node62" href="$structSDL__ExposeEvent.html" title="SDL_ExposeEvent" alt="" coords="911,1077,1044,1107"/>
+<area shape="rect" id="node65" href="$structSDL__ResizeEvent.html" title="SDL_ResizeEvent" alt="" coords="575,1000,705,1029"/>
+<area shape="rect" id="node38" href="$structSDL__SysWMmsg.html" title="SDL_SysWMmsg" alt="" coords="577,939,703,968"/>
+</map>

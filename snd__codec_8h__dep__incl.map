@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$snd__codec_8c.html" title="code/client/snd_codec.c" alt="" coords="5,83,168,112"/>
+<area shape="rect" id="node5" href="$snd__codec__wav_8c.html" title="code/client/snd_codec_wav.c" alt="" coords="192,83,387,112"/>
+<area shape="rect" id="node7" href="$snd__dma_8c.html" title="code/client/snd_dma.c" alt="" coords="411,83,563,112"/>
+<area shape="rect" id="node9" href="$snd__main_8c.html" title="code/client/snd_main.c" alt="" coords="587,83,741,112"/>
+<area shape="rect" id="node11" href="$snd__mem_8c.html" title="code/client/snd_mem.c" alt="" coords="765,83,923,112"/>
+<area shape="rect" id="node13" href="$snd__openal_8c.html" title="code/client/snd_openal.c" alt="" coords="947,83,1112,112"/>
+</map>

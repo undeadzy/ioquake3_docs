@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$q__shared_8h.html" title="../qcommon/q_shared.h" alt="" coords="447,83,604,112"/>
+<area shape="rect" id="node29" href="$tr__types_8h.html" title="../renderer/tr_types.h" alt="" coords="628,83,769,112"/>
+<area shape="rect" id="node31" href="$ui__public_8h.html" title="../ui/ui_public.h" alt="" coords="793,83,903,112"/>
+<area shape="rect" id="node33" href="$keycodes_8h.html" title="../client/keycodes.h" alt="" coords="927,83,1063,112"/>
+<area shape="rect" id="node35" href="$bg__public_8h.html" title="../game/bg_public.h" alt="" coords="1087,83,1223,112"/>
+<area shape="rect" id="node25" href="$q__platform_8h.html" title="q_platform.h" alt="" coords="885,160,979,189"/>
+<area shape="rect" id="node27" href="$surfaceflags_8h.html" title="surfaceflags.h" alt="" coords="1003,160,1107,189"/>
+</map>

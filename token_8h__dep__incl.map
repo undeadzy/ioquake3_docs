@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$c_8h.html" title="code/tools/lcc/src/c.h" alt="" coords="2423,83,2569,112"/>
+<area shape="rect" id="node15" href="$enode_8c.html" title="code/tools/lcc/src/enode.c" alt="" coords="5,160,179,189"/>
+<area shape="rect" id="node17" href="$error_8c.html" title="code/tools/lcc/src/error.c" alt="" coords="203,160,368,189"/>
+<area shape="rect" id="node21" href="$expr_8c.html" title="code/tools/lcc/src/expr.c" alt="" coords="392,160,557,189"/>
+<area shape="rect" id="node37" href="$output_8c.html" title="code/tools/lcc/src/output.c" alt="" coords="4971,160,5147,189"/>
+<area shape="rect" id="node5" href="$alloc_8c.html" title="code/tools/lcc/src/alloc.c" alt="" coords="2701,160,2867,189"/>
+<area shape="rect" id="node7" href="$bind_8c.html" title="code/tools/lcc/src/bind.c" alt="" coords="2891,160,3053,189"/>
+<area shape="rect" id="node9" href="$src_2bytecode_8c.html" title="code/tools/lcc/src/bytecode.c" alt="" coords="3077,160,3269,189"/>
+<area shape="rect" id="node11" href="$dag_8c.html" title="code/tools/lcc/src/dag.c" alt="" coords="3293,160,3453,189"/>
+<area shape="rect" id="node13" href="$decl_8c.html" title="code/tools/lcc/src/decl.c" alt="" coords="3477,160,3640,189"/>
+<area shape="rect" id="node19" href="$event_8c.html" title="code/tools/lcc/src/event.c" alt="" coords="3664,160,3835,189"/>
+<area shape="rect" id="node23" href="$gen_8c.html" title="code/tools/lcc/src/gen.c" alt="" coords="3859,160,4019,189"/>
+<area shape="rect" id="node25" href="$init_8c.html" title="code/tools/lcc/src/init.c" alt="" coords="4043,160,4200,189"/>
+<area shape="rect" id="node27" href="$input_8c.html" title="code/tools/lcc/src/input.c" alt="" coords="4224,160,4392,189"/>
+<area shape="rect" id="node29" href="$src_2lex_8c.html" title="code/tools/lcc/src/lex.c" alt="" coords="4416,160,4573,189"/>
+<area shape="rect" id="node31" href="$list_8c.html" title="code/tools/lcc/src/list.c" alt="" coords="4597,160,4755,189"/>
+<area shape="rect" id="node33" href="$main_8c.html" title="code/tools/lcc/src/main.c" alt="" coords="4779,160,4947,189"/>
+<area shape="rect" id="node35" href="$null_8c.html" title="code/tools/lcc/src/null.c" alt="" coords="581,160,741,189"/>
+<area shape="rect" id="node39" href="$prof_8c.html" title="code/tools/lcc/src/prof.c" alt="" coords="765,160,928,189"/>
+<area shape="rect" id="node41" href="$profio_8c.html" title="code/tools/lcc/src/profio.c" alt="" coords="952,160,1123,189"/>
+<area shape="rect" id="node43" href="$simp_8c.html" title="code/tools/lcc/src/simp.c" alt="" coords="1147,160,1315,189"/>
+<area shape="rect" id="node45" href="$stmt_8c.html" title="code/tools/lcc/src/stmt.c" alt="" coords="1339,160,1504,189"/>
+<area shape="rect" id="node47" href="$string_8c.html" title="code/tools/lcc/src/string.c" alt="" coords="1528,160,1699,189"/>
+<area shape="rect" id="node49" href="$sym_8c.html" title="code/tools/lcc/src/sym.c" alt="" coords="1723,160,1888,189"/>
+<area shape="rect" id="node51" href="$symbolic_8c.html" title="code/tools/lcc/src/symbolic.c" alt="" coords="1912,160,2104,189"/>
+<area shape="rect" id="node53" href="$trace_8c.html" title="code/tools/lcc/src/trace.c" alt="" coords="2128,160,2296,189"/>
+<area shape="rect" id="node55" href="$tree_8c.html" title="code/tools/lcc/src/tree.c" alt="" coords="2320,160,2483,189"/>
+<area shape="rect" id="node57" href="$types_8c.html" title="code/tools/lcc/src/types.c" alt="" coords="2507,160,2677,189"/>
+</map>

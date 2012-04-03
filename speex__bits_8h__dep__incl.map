@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$bits_8c.html" title="code/libspeex/bits.c" alt="" coords="5,83,144,112"/>
+<area shape="rect" id="node5" href="$cb__search_8h.html" title="Overlapped codebook search." alt="" coords="1096,315,1272,344"/>
+<area shape="rect" id="node13" href="$nb__celp_8c.html" title="code/libspeex/nb_celp.c" alt="" coords="620,392,783,421"/>
+<area shape="rect" id="node17" href="$ltp_8h.html" title="Long&#45;Term Prediction functions." alt="" coords="869,315,1000,344"/>
+<area shape="rect" id="node21" href="$ltp_8c.html" title="code/libspeex/ltp.c" alt="" coords="291,392,421,421"/>
+<area shape="rect" id="node27" href="$speex_8h.html" title="Describes the different modes of the codec." alt="" coords="829,83,1064,112"/>
+<area shape="rect" id="node31" href="$nb__celp_8h.html" title="Narrowband CELP encoder/decoder." alt="" coords="1491,237,1653,267"/>
+<area shape="rect" id="node33" href="$sb__celp_8h.html" title="Sub&#45;band CELP mode used for wideband encoding." alt="" coords="1711,315,1873,344"/>
+<area shape="rect" id="node52" href="$jitter_8c.html" title="code/libspeex/jitter.c" alt="" coords="1224,160,1365,189"/>
+<area shape="rect" id="node54" href="$modes_8h.html" title="Describes the different modes of the codec." alt="" coords="1676,160,1831,189"/>
+<area shape="rect" id="node67" href="$speex__stereo_8h.html" title="Describes the handling for intensity stereo." alt="" coords="1139,83,1416,112"/>
+<area shape="rect" id="node73" href="$quant__lsp_8h.html" title="LSP vector quantization." alt="" coords="1367,315,1540,344"/>
+<area shape="rect" id="node7" href="$cb__search_8c.html" title="code/libspeex/cb_search.c" alt="" coords="980,392,1156,421"/>
+<area shape="rect" id="node9" href="$modes_8c.html" title="code/libspeex/modes.c" alt="" coords="1564,392,1719,421"/>
+<area shape="rect" id="node11" href="$modes__wb_8c.html" title="code/libspeex/modes_wb.c" alt="" coords="1743,392,1921,421"/>
+<area shape="rect" id="node15" href="$sb__celp_8c.html" title="code/libspeex/sb_celp.c" alt="" coords="1180,392,1343,421"/>
+<area shape="rect" id="node19" href="$filters_8c.html" title="code/libspeex/filters.c" alt="" coords="807,392,956,421"/>
+<area shape="rect" id="node29" href="$speex__callbacks_8h.html" title="Describes callback handling and in&#45;band signalling." alt="" coords="629,160,928,189"/>
+<area shape="rect" id="node46" href="$testenc_8c.html" title="code/libspeex/testenc.c" alt="" coords="371,237,531,267"/>
+<area shape="rect" id="node48" href="$testenc__uwb_8c.html" title="code/libspeex/testenc_uwb.c" alt="" coords="555,237,744,267"/>
+<area shape="rect" id="node50" href="$testenc__wb_8c.html" title="code/libspeex/testenc_wb.c" alt="" coords="1056,237,1240,267"/>
+<area shape="rect" id="node62" href="$speex__header_8c.html" title="code/libspeex/speex_header.c" alt="" coords="1003,160,1200,189"/>
+<area shape="rect" id="node42" href="$speex__callbacks_8c.html" title="code/libspeex/speex_callbacks.c" alt="" coords="819,237,1032,267"/>
+<area shape="rect" id="node44" href="$stereo_8c.html" title="code/libspeex/stereo.c" alt="" coords="1264,237,1416,267"/>
+<area shape="rect" id="node60" href="$speex_8c.html" title="code/libspeex/speex.c" alt="" coords="1677,237,1829,267"/>
+<area shape="rect" id="node78" href="$quant__lsp_8c.html" title="code/libspeex/quant_lsp.c" alt="" coords="1367,392,1540,421"/>
+</map>

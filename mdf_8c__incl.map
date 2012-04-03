@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$arch_8h.html" title="Various architecture definitions Speex." alt="" coords="176,237,235,267"/>
+<area shape="rect" id="node11" href="$speex__echo_8h.html" title="Echo cancellation." alt="" coords="465,83,607,112"/>
+<area shape="rect" id="node14" href="$fftwrap_8h.html" title="fftwrap.h" alt="" coords="5,83,77,112"/>
+<area shape="rect" id="node17" href="$pseudofloat_8h.html" title="Pseudo&#45;floating point This header file provides a lightweight floating point type for use on fixed&#45;po..." alt="" coords="247,83,345,112"/>
+<area shape="rect" id="node20" href="$os__support_8h.html" title="os_support.h" alt="" coords="419,160,515,189"/>
+<area shape="rect" id="node28" href="$math__approx_8h.html" title="Various math approximation functions for Speex." alt="" coords="152,160,259,189"/>
+<area shape="rect" id="node5" href="$speex__types_8h.html" title="Speex types." alt="" coords="305,315,452,344"/>
+<area shape="rect" id="node7" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="285,392,472,421"/>
+</map>

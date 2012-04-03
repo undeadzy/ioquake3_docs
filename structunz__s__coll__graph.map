@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structfile__in__zip__read__info__s.html" title="file_in_zip_read_info_s" alt="" coords="763,632,917,661"/>
+<area shape="rect" id="node6" href="$structzlib__filefunc__def__s.html" title="zlib_filefunc_def_s" alt="" coords="416,295,547,324"/>
+<area shape="rect" id="node27" href="$structz__stream__s.html" title="z_stream_s" alt="" coords="436,772,527,801"/>
+<area shape="rect" id="node36" href="$structinternal__state.html" title="internal_state" alt="" coords="156,927,255,956"/>
+<area shape="rect" id="node44" href="$structunz__file__info__internal__s.html" title="unz_file_info_internal_s" alt="" coords="580,1157,737,1187"/>
+<area shape="rect" id="node49" href="$structunz__global__info__s.html" title="unz_global_info_s" alt="" coords="596,1223,721,1252"/>
+<area shape="rect" id="node54" href="$structunz__file__info__s.html" title="unz_file_info_s" alt="" coords="785,1451,895,1480"/>
+<area shape="rect" id="node56" href="$structtm__unz__s.html" title="tm_unz_s" alt="" coords="443,1544,520,1573"/>
+</map>

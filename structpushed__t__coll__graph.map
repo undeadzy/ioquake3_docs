@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node4" href="$structgentity__s.html" title="gentity_s" alt="" coords="1640,679,1715,708"/>
+<area shape="rect" id="node16" href="$structentityShared__t.html" title="entityShared_t" alt="" coords="1137,725,1244,755"/>
+<area shape="rect" id="node20" href="$structentityState__s.html" title="entityState_s" alt="" coords="629,613,728,643"/>
+<area shape="rect" id="node24" href="$structtrajectory__t.html" title="trajectory_t" alt="" coords="352,552,437,581"/>
+<area shape="rect" id="node41" href="$structgclient__s.html" title="gclient_s" alt="" coords="1840,1123,1915,1152"/>
+<area shape="rect" id="node43" href="$structplayerState__s.html" title="playerState_s" alt="" coords="344,1121,445,1151"/>
+<area shape="rect" id="node57" href="$structplayerTeamState__t.html" title="playerTeamState_t" alt="" coords="329,1575,460,1604"/>
+<area shape="rect" id="node8" href="$structgitem__s.html" title="gitem_s" alt="" coords="645,939,712,968"/>
+<area shape="rect" id="node49" href="$structclientPersistant__t.html" title="clientPersistant_t" alt="" coords="1129,1368,1252,1397"/>
+<area shape="rect" id="node53" href="$structusercmd__s.html" title="usercmd_s" alt="" coords="636,1275,721,1304"/>
+<area shape="rect" id="node68" href="$structclientSession__t.html" title="clientSession_t" alt="" coords="1136,1903,1245,1932"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ui_2ui__local_8h.html" title="ui_local.h" alt="" coords="781,83,859,112"/>
+<area shape="rect" id="node5" href="$q__shared_8h.html" title="../qcommon/q_shared.h" alt="" coords="447,237,604,267"/>
+<area shape="rect" id="node31" href="$tr__types_8h.html" title="../renderer/tr_types.h" alt="" coords="628,237,769,267"/>
+<area shape="rect" id="node33" href="$ui__public_8h.html" title="ui_public.h" alt="" coords="899,160,981,189"/>
+<area shape="rect" id="node35" href="$keycodes_8h.html" title="../client/keycodes.h" alt="" coords="937,237,1073,267"/>
+<area shape="rect" id="node37" href="$bg__public_8h.html" title="../game/bg_public.h" alt="" coords="1005,160,1141,189"/>
+<area shape="rect" id="node39" href="$ui__shared_8h.html" title="ui_shared.h" alt="" coords="736,160,824,189"/>
+<area shape="rect" id="node27" href="$q__platform_8h.html" title="q_platform.h" alt="" coords="885,315,979,344"/>
+<area shape="rect" id="node29" href="$surfaceflags_8h.html" title="surfaceflags.h" alt="" coords="1003,315,1107,344"/>
+<area shape="rect" id="node44" href="$menudef_8h.html" title="../../ui/menudef.h" alt="" coords="793,237,913,267"/>
+</map>

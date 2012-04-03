@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$speex__callbacks_8h.html" title="Describes callback handling and in&#45;band signalling." alt="" coords="929,83,1228,112"/>
+<area shape="rect" id="node24" href="$testenc_8c.html" title="code/libspeex/testenc.c" alt="" coords="1179,160,1339,189"/>
+<area shape="rect" id="node26" href="$testenc__uwb_8c.html" title="code/libspeex/testenc_uwb.c" alt="" coords="1363,160,1552,189"/>
+<area shape="rect" id="node28" href="$testenc__wb_8c.html" title="code/libspeex/testenc_wb.c" alt="" coords="1576,160,1760,189"/>
+<area shape="rect" id="node30" href="$jitter_8c.html" title="code/libspeex/jitter.c" alt="" coords="1404,83,1545,112"/>
+<area shape="rect" id="node32" href="$modes_8h.html" title="Describes the different modes of the codec." alt="" coords="295,83,449,112"/>
+<area shape="rect" id="node40" href="$speex__header_8c.html" title="code/libspeex/speex_header.c" alt="" coords="1569,83,1767,112"/>
+<area shape="rect" id="node5" href="$nb__celp_8h.html" title="Narrowband CELP encoder/decoder." alt="" coords="528,160,691,189"/>
+<area shape="rect" id="node17" href="$nb__celp_8c.html" title="code/libspeex/nb_celp.c" alt="" coords="587,237,749,267"/>
+<area shape="rect" id="node20" href="$speex__callbacks_8c.html" title="code/libspeex/speex_callbacks.c" alt="" coords="765,160,979,189"/>
+<area shape="rect" id="node22" href="$stereo_8c.html" title="code/libspeex/stereo.c" alt="" coords="1003,160,1155,189"/>
+<area shape="rect" id="node7" href="$sb__celp_8h.html" title="Sub&#45;band CELP mode used for wideband encoding." alt="" coords="183,237,345,267"/>
+<area shape="rect" id="node9" href="$modes_8c.html" title="code/libspeex/modes.c" alt="" coords="395,315,549,344"/>
+<area shape="rect" id="node11" href="$modes__wb_8c.html" title="code/libspeex/modes_wb.c" alt="" coords="5,315,184,344"/>
+<area shape="rect" id="node13" href="$sb__celp_8c.html" title="code/libspeex/sb_celp.c" alt="" coords="208,315,371,344"/>
+<area shape="rect" id="node38" href="$speex_8c.html" title="code/libspeex/speex.c" alt="" coords="352,160,504,189"/>
+</map>

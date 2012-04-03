@@ -1,0 +1,25 @@
+var tr__types_8h =
+[
+    [ "ENTITYNUM_BITS", "tr__types_8h.html#ad9a119209bb5bb4f72ad480f0a838b94", null ],
+    [ "MAX_DLIGHTS", "tr__types_8h.html#a70c98b67362e4471a15cebd4ff411449", null ],
+    [ "MAX_ENTITIES", "tr__types_8h.html#a0b7e155f796ed5e7b49b0f44867135ee", null ],
+    [ "MAX_RENDER_STRING_LENGTH", "tr__types_8h.html#a07b10b2f2f412db51c6c1677353458c7", null ],
+    [ "MAX_RENDER_STRINGS", "tr__types_8h.html#a7edc5e6aceab80b149e30f7939559784", null ],
+    [ "RDF_HYPERSPACE", "tr__types_8h.html#ad8bfa0d04d695d89f550e46afb299636", null ],
+    [ "RDF_NOWORLDMODEL", "tr__types_8h.html#a8c254753d773025f3aaf20136167ecbd", null ],
+    [ "RF_CROSSHAIR", "tr__types_8h.html#abc921e9fc0cbd35fd57abc26d5624d2d", null ],
+    [ "RF_DEPTHHACK", "tr__types_8h.html#a25aa94ce2265d443b0ad5dfc900f86d4", null ],
+    [ "RF_FIRST_PERSON", "tr__types_8h.html#afb9a0da2973e56063ad8937e396f5155", null ],
+    [ "RF_LIGHTING_ORIGIN", "tr__types_8h.html#ad6ca842eafd43a3717ff4ae27a1f8ee7", null ],
+    [ "RF_MINLIGHT", "tr__types_8h.html#ae7639e0fa516bc2c52c1f7f96ae121a4", null ],
+    [ "RF_NOSHADOW", "tr__types_8h.html#aa4a705423e58d3fd1c2e6c1b2e738f95", null ],
+    [ "RF_SHADOW_PLANE", "tr__types_8h.html#af528c63201d824134dd3da6baae97dc2", null ],
+    [ "RF_THIRD_PERSON", "tr__types_8h.html#af24f7935b529d1de5f201794b2164188", null ],
+    [ "RF_WRAP_FRAMES", "tr__types_8h.html#ad99129f92ccc1cc445146b25e7973e6f", null ],
+    [ "poly_t", "tr__types_8h.html#a6e49b9dfc540b0a4d3fac5653a62a1f6", null ],
+    [ "glDriverType_t", "tr__types_8h.html#a6e72cbe692793e8c83e34478aa4e3b2e", null ],
+    [ "glHardwareType_t", "tr__types_8h.html#a662159fc01b1a06ccde2464af5a0beb9", null ],
+    [ "refEntityType_t", "tr__types_8h.html#a0d25327008d00e99bbd80ef32a1d2a47", null ],
+    [ "stereoFrame_t", "tr__types_8h.html#abb5d78e348dad6274a5eb0251cb21259", null ],
+    [ "textureCompression_t", "tr__types_8h.html#a20d881390d815c3d64553b2425882400", null ]
+];

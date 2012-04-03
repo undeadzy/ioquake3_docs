@@ -1,0 +1,26 @@
+var structtrRefdef__t =
+[
+    [ "areamask", "structtrRefdef__t.html#affd27f16c254f10275deee856447a044", null ],
+    [ "areamaskModified", "structtrRefdef__t.html#a5b1efb38d939789b2a25141c7f8a3031", null ],
+    [ "dlights", "structtrRefdef__t.html#af4530ade1e0e9a549f5f21cc19934279", null ],
+    [ "drawSurfs", "structtrRefdef__t.html#aa6e8c3aafcda3b6ffbc4fdee9089cbc7", null ],
+    [ "entities", "structtrRefdef__t.html#a51530a2e4f8e2f6ef4a227053e717cde", null ],
+    [ "floatTime", "structtrRefdef__t.html#ab43f24381a8773fced35b50eb5498e97", null ],
+    [ "fov_x", "structtrRefdef__t.html#a2564ace385148df55000ef403689044c", null ],
+    [ "fov_y", "structtrRefdef__t.html#a3f1221364a7939ee15a79c5c55ec044d", null ],
+    [ "height", "structtrRefdef__t.html#a131ba23937b5de0077c3648f4e3648c5", null ],
+    [ "num_dlights", "structtrRefdef__t.html#af93541ecca55c234152a86549939832e", null ],
+    [ "num_entities", "structtrRefdef__t.html#aa44a76896afb8900f564da53fd9fd24a", null ],
+    [ "numDrawSurfs", "structtrRefdef__t.html#a620193ca280f66bc342336eb3edc310a", null ],
+    [ "numPolys", "structtrRefdef__t.html#a5ce5aa24d9fec5d5365952463bea9b05", null ],
+    [ "polys", "structtrRefdef__t.html#afa0e6ab3ff1207e61dcd1370e2f5965e", null ],
+    [ "rdflags", "structtrRefdef__t.html#a207415f07029398a863a20639d26d562", null ],
+    [ "stereoFrame", "structtrRefdef__t.html#a2a3e93369d06daeaad4a982ce17912f2", null ],
+    [ "text", "structtrRefdef__t.html#acc30faabca153f567f201e48cfdb313a", null ],
+    [ "time", "structtrRefdef__t.html#ac59d2e23d02c73720bf97c3220968643", null ],
+    [ "viewaxis", "structtrRefdef__t.html#a51a824224f1d641726f80ea41023631a", null ],
+    [ "vieworg", "structtrRefdef__t.html#a0ae3922798e01d04a2d6a929b47712b7", null ],
+    [ "width", "structtrRefdef__t.html#a71151ac706b627697f97979733723ed2", null ],
+    [ "x", "structtrRefdef__t.html#a7b6d4d07497d302b0c2a5b1281f67969", null ],
+    [ "y", "structtrRefdef__t.html#a942008f903fb226952551d73cbf055b5", null ]
+];

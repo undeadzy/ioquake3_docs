@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structjpeg__color__quantizer.html" title="jpeg_color_quantizer" alt="" coords="923,69,1064,99"/>
+<area shape="rect" id="node4" href="$structJQUANT__TBL.html" title="JQUANT_TBL" alt="" coords="576,757,683,787"/>
+<area shape="rect" id="node21" href="$structjpeg__component__info.html" title="jpeg_component_info" alt="" coords="921,716,1065,745"/>
+<area shape="rect" id="node10" href="$structJHUFF__TBL.html" title="JHUFF_TBL" alt="" coords="581,533,677,563"/>
+<area shape="rect" id="node35" href="$structjvirt__barray__control.html" title="jvirt_barray_control" alt="" coords="564,1384,695,1413"/>
+<area shape="rect" id="node61" href="$structjpeg__marker__reader.html" title="jpeg_marker_reader" alt="" coords="561,811,697,840"/>
+<area shape="rect" id="node72" href="$structjpeg__upsampler.html" title="jpeg_upsampler" alt="" coords="759,912,871,941"/>
+<area shape="rect" id="node75" href="$structjpeg__input__controller.html" title="jpeg_input_controller" alt="" coords="744,1191,885,1220"/>
+<area shape="rect" id="node80" href="$structjpeg__decomp__master.html" title="jpeg_decomp_master" alt="" coords="741,1301,888,1331"/>
+<area shape="rect" id="node28" href="$structjpeg__source__mgr.html" title="jpeg_source_mgr" alt="" coords="569,427,689,456"/>
+<area shape="rect" id="node51" href="$structjpeg__marker__struct.html" title="jpeg_marker_struct" alt="" coords="563,219,696,248"/>
+<area shape="rect" id="node17" href="$structjpeg__inverse__dct.html" title="jpeg_inverse_dct" alt="" coords="933,499,1053,528"/>
+<area shape="rect" id="node41" href="$structbacking__store__struct.html" title="backing_store_struct" alt="" coords="209,1435,351,1464"/>
+<area shape="rect" id="node33" href="$structjpeg__d__coef__controller.html" title="jpeg_d_coef_controller" alt="" coords="917,1413,1069,1443"/>
+<area shape="rect" id="node57" href="$structjpeg__color__deconverter.html" title="jpeg_color_deconverter" alt="" coords="916,1069,1071,1099"/>
+<area shape="rect" id="node59" href="$structjpeg__entropy__decoder.html" title="jpeg_entropy_decoder" alt="" coords="919,1123,1068,1152"/>
+<area shape="rect" id="node67" href="$structjpeg__d__main__controller.html" title="jpeg_d_main_controller" alt="" coords="916,1241,1071,1271"/>
+<area shape="rect" id="node78" href="$structjpeg__d__post__controller.html" title="jpeg_d_post_controller" alt="" coords="917,1467,1069,1496"/>
+</map>

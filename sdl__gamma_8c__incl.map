@@ -1,0 +1,41 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$SDL_8h.html" title="SDL.h" alt="" coords="1975,83,2033,112"/>
+<area shape="rect" id="node136" href="$tr__local_8h.html" title="../renderer/tr_local.h" alt="" coords="3424,83,3563,112"/>
+<area shape="rect" id="node165" href="$qcommon_8h.html" title="definitions common between client and server, but not game or ref modules" alt="" coords="4149,160,4312,189"/>
+<area shape="rect" id="node5" href="$SDL__main_8h.html" title="SDL_main.h" alt="" coords="2219,315,2312,344"/>
+<area shape="rect" id="node7" href="$SDL__stdinc_8h.html" title="SDL_stdinc.h" alt="" coords="1661,547,1763,576"/>
+<area shape="rect" id="node18" href="$begin__code_8h.html" title="begin_code.h" alt="" coords="1004,624,1103,653"/>
+<area shape="rect" id="node20" href="$close__code_8h.html" title="close_code.h" alt="" coords="2120,624,2219,653"/>
+<area shape="rect" id="node23" href="$SDL__audio_8h.html" title="SDL_audio.h" alt="" coords="1575,237,1671,267"/>
+<area shape="rect" id="node26" href="$SDL__error_8h.html" title="SDL_error.h" alt="" coords="1243,469,1333,499"/>
+<area shape="rect" id="node31" href="$SDL__endian_8h.html" title="SDL_endian.h" alt="" coords="2117,469,2221,499"/>
+<area shape="rect" id="node36" href="$SDL__mutex_8h.html" title="SDL_mutex.h" alt="" coords="1503,392,1604,421"/>
+<area shape="rect" id="node42" href="$SDL__thread_8h.html" title="SDL_thread.h" alt="" coords="1660,315,1761,344"/>
+<area shape="rect" id="node49" href="$SDL__rwops_8h.html" title="SDL_rwops.h" alt="" coords="553,392,655,421"/>
+<area shape="rect" id="node57" href="$SDL__cdrom_8h.html" title="SDL_cdrom.h" alt="" coords="1729,392,1831,421"/>
+<area shape="rect" id="node63" href="$SDL__cpuinfo_8h.html" title="SDL_cpuinfo.h" alt="" coords="2245,469,2352,499"/>
+<area shape="rect" id="node70" href="$SDL__events_8h.html" title="SDL_events.h" alt="" coords="823,160,927,189"/>
+<area shape="rect" id="node92" href="$SDL__video_8h.html" title="SDL_video.h" alt="" coords="559,315,655,344"/>
+<area shape="rect" id="node113" href="$SDL__loadso_8h.html" title="SDL_loadso.h" alt="" coords="1905,392,2009,421"/>
+<area shape="rect" id="node122" href="$SDL__timer_8h.html" title="SDL_timer.h" alt="" coords="2033,392,2127,421"/>
+<area shape="rect" id="node129" href="$SDL__version_8h.html" title="SDL_version.h" alt="" coords="2376,469,2483,499"/>
+<area shape="rect" id="node9" href="$SDL__config_8h.html" title="SDL_config.h" alt="" coords="2863,624,2964,653"/>
+<area shape="rect" id="node11" href="$SDL__platform_8h.html" title="SDL_platform.h" alt="" coords="2913,779,3025,808"/>
+<area shape="rect" id="node13" href="$SDL__config__minimal_8h.html" title="SDL_config_minimal.h" alt="" coords="2951,701,3103,731"/>
+<area shape="rect" id="node74" href="$SDL__active_8h.html" title="SDL_active.h" alt="" coords="729,392,831,421"/>
+<area shape="rect" id="node80" href="$SDL__keyboard_8h.html" title="SDL_keyboard.h" alt="" coords="311,392,428,421"/>
+<area shape="rect" id="node88" href="$SDL__mouse_8h.html" title="SDL_mouse.h" alt="" coords="685,237,789,267"/>
+<area shape="rect" id="node101" href="$SDL__joystick_8h.html" title="SDL_joystick.h" alt="" coords="855,392,964,421"/>
+<area shape="rect" id="node107" href="$SDL__quit_8h.html" title="SDL_quit.h" alt="" coords="1343,392,1428,421"/>
+<area shape="rect" id="node84" href="$SDL__keysym_8h.html" title="SDL_keysym.h" alt="" coords="347,469,459,499"/>
+<area shape="rect" id="node138" href="$q__shared_8h.html" title="../qcommon/q_shared.h" alt="" coords="3480,160,3637,189"/>
+<area shape="rect" id="node163" href="$qfiles_8h.html" title="../qcommon/qfiles.h" alt="" coords="4104,315,4240,344"/>
+<area shape="rect" id="node170" href="$tr__public_8h.html" title="tr_public.h" alt="" coords="3221,160,3304,189"/>
+<area shape="rect" id="node174" href="$qgl_8h.html" title="qgl.h" alt="" coords="2997,160,3048,189"/>
+<area shape="rect" id="node179" href="$iqm_8h.html" title="iqm.h" alt="" coords="3403,160,3456,189"/>
+<area shape="rect" id="node159" href="$q__platform_8h.html" title="q_platform.h" alt="" coords="3451,237,3544,267"/>
+<area shape="rect" id="node161" href="$surfaceflags_8h.html" title="surfaceflags.h" alt="" coords="3568,237,3672,267"/>
+<area shape="rect" id="node167" href="$cm__public_8h.html" title="../qcommon/cm_public.h" alt="" coords="4149,237,4315,267"/>
+<area shape="rect" id="node172" href="$tr__types_8h.html" title="tr_types.h" alt="" coords="2912,237,2992,267"/>
+<area shape="rect" id="node176" href="$SDL__opengl_8h.html" title="SDL_opengl.h" alt="" coords="2861,547,2965,576"/>
+</map>

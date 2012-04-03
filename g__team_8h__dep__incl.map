@@ -1,0 +1,32 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$g__local_8h.html" title="code/game/g_local.h" alt="" coords="2405,83,2547,112"/>
+<area shape="rect" id="node5" href="$ai__chat_8c.html" title="code/game/ai_chat.c" alt="" coords="5,160,147,189"/>
+<area shape="rect" id="node7" href="$ai__cmd_8c.html" title="code/game/ai_cmd.c" alt="" coords="171,160,312,189"/>
+<area shape="rect" id="node9" href="$ai__dmnet_8c.html" title="code/game/ai_dmnet.c" alt="" coords="336,160,491,189"/>
+<area shape="rect" id="node11" href="$ai__dmq3_8c.html" title="code/game/ai_dmq3.c" alt="" coords="515,160,664,189"/>
+<area shape="rect" id="node13" href="$ai__main_8c.html" title="code/game/ai_main.c" alt="" coords="688,160,835,189"/>
+<area shape="rect" id="node15" href="$ai__team_8c.html" title="code/game/ai_team.c" alt="" coords="859,160,1005,189"/>
+<area shape="rect" id="node17" href="$ai__vcmd_8c.html" title="code/game/ai_vcmd.c" alt="" coords="1029,160,1179,189"/>
+<area shape="rect" id="node19" href="$g__active_8c.html" title="code/game/g_active.c" alt="" coords="1203,160,1352,189"/>
+<area shape="rect" id="node21" href="$g__arenas_8c.html" title="code/game/g_arenas.c" alt="" coords="1376,160,1531,189"/>
+<area shape="rect" id="node23" href="$g__bot_8c.html" title="code/game/g_bot.c" alt="" coords="1555,160,1688,189"/>
+<area shape="rect" id="node25" href="$g__client_8c.html" title="code/game/g_client.c" alt="" coords="1712,160,1859,189"/>
+<area shape="rect" id="node27" href="$g__cmds_8c.html" title="code/game/g_cmds.c" alt="" coords="1883,160,2029,189"/>
+<area shape="rect" id="node29" href="$g__combat_8c.html" title="code/game/g_combat.c" alt="" coords="2053,160,2211,189"/>
+<area shape="rect" id="node31" href="$g__items_8c.html" title="code/game/g_items.c" alt="" coords="2235,160,2381,189"/>
+<area shape="rect" id="node33" href="$g__main_8c.html" title="code/game/g_main.c" alt="" coords="2405,160,2547,189"/>
+<area shape="rect" id="node35" href="$g__mem_8c.html" title="code/game/g_mem.c" alt="" coords="2571,160,2715,189"/>
+<area shape="rect" id="node37" href="$g__misc_8c.html" title="code/game/g_misc.c" alt="" coords="2739,160,2880,189"/>
+<area shape="rect" id="node39" href="$g__missile_8c.html" title="code/game/g_missile.c" alt="" coords="2904,160,3059,189"/>
+<area shape="rect" id="node41" href="$g__mover_8c.html" title="code/game/g_mover.c" alt="" coords="3083,160,3232,189"/>
+<area shape="rect" id="node43" href="$g__rankings_8c.html" title="code/game/g_rankings.c" alt="" coords="3256,160,3419,189"/>
+<area shape="rect" id="node45" href="$g__session_8c.html" title="code/game/g_session.c" alt="" coords="3443,160,3603,189"/>
+<area shape="rect" id="node47" href="$g__spawn_8c.html" title="code/game/g_spawn.c" alt="" coords="3627,160,3779,189"/>
+<area shape="rect" id="node49" href="$g__svcmds_8c.html" title="code/game/g_svcmds.c" alt="" coords="3803,160,3963,189"/>
+<area shape="rect" id="node51" href="$g__syscalls_8c.html" title="code/game/g_syscalls.c" alt="" coords="3987,160,4149,189"/>
+<area shape="rect" id="node53" href="$g__target_8c.html" title="code/game/g_target.c" alt="" coords="4173,160,4320,189"/>
+<area shape="rect" id="node55" href="$g__team_8c.html" title="code/game/g_team.c" alt="" coords="4344,160,4488,189"/>
+<area shape="rect" id="node57" href="$g__trigger_8c.html" title="code/game/g_trigger.c" alt="" coords="4512,160,4661,189"/>
+<area shape="rect" id="node59" href="$g__utils_8c.html" title="code/game/g_utils.c" alt="" coords="4685,160,4824,189"/>
+<area shape="rect" id="node61" href="$g__weapon_8c.html" title="code/game/g_weapon.c" alt="" coords="4848,160,5008,189"/>
+</map>

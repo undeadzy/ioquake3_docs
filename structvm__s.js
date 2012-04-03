@@ -1,0 +1,27 @@
+var structvm__s =
+[
+    [ "intptr_t", "structvm__s.html#a03a1b95b8230809e69225bc43bff8006", null ],
+    [ "breakCount", "structvm__s.html#ab31d655cce8c347943717242118ff0c7", null ],
+    [ "breakFunction", "structvm__s.html#aa7756b64380ebf8b1a2a87781bf6f901", null ],
+    [ "callLevel", "structvm__s.html#af65f1a14232a9c1c1188e0eadf8886a3", null ],
+    [ "codeBase", "structvm__s.html#a423089f4a7c3a185619369c9b7c0902c", null ],
+    [ "codeLength", "structvm__s.html#a26c1ae6f445bae30aa07baed267a6b4d", null ],
+    [ "compiled", "structvm__s.html#a3ac602b390317f6ddd4bd9ea851598b8", null ],
+    [ "currentlyInterpreting", "structvm__s.html#a27468be6949ff067d58567158a3f0df5", null ],
+    [ "dataBase", "structvm__s.html#a12aa4f0188753d82f064f07eef2a4ef6", null ],
+    [ "dataMask", "structvm__s.html#a9ace64b09bd6a7a348723952865f4b54", null ],
+    [ "destroy", "structvm__s.html#ac8c3c6eed1eaf1429f2ef99e144d755a", null ],
+    [ "dllHandle", "structvm__s.html#a085ca0fb71d514e6943f6db0253d2ba0", null ],
+    [ "entryOfs", "structvm__s.html#af570cbf6c2efd9340ae08f3f3d1584f7", null ],
+    [ "instructionCount", "structvm__s.html#a2df93170d0d1125d18eec1a4908e2ec3", null ],
+    [ "instructionPointers", "structvm__s.html#a4bf3a5a13fd802aa3fec597d471c24a4", null ],
+    [ "jumpTableTargets", "structvm__s.html#a7505b44656ad8a3308575f0c5fc98a63", null ],
+    [ "name", "structvm__s.html#a5c9927a033a87c5ee7f6b352244c0360", null ],
+    [ "numJumpTableTargets", "structvm__s.html#a63b116085a719af8ceb5e974edb5ed24", null ],
+    [ "numSymbols", "structvm__s.html#adfe48acf538935e059e01f778a8a9915", null ],
+    [ "programStack", "structvm__s.html#a738d11fe4dbd74c46f13c6cda7d182e2", null ],
+    [ "searchPath", "structvm__s.html#a6f6a8773515cdd7abb27ccbdfa01401f", null ],
+    [ "stackBottom", "structvm__s.html#a279b0918b8f0c1a053d8a4aee4639d0d", null ],
+    [ "symbols", "structvm__s.html#a71768313404c24e41137c7d4ebe64380", null ],
+    [ "systemCall", "structvm__s.html#a5cdcc50053641ac8a1671abe0542f45e", null ]
+];

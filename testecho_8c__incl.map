@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node13" href="$speex__echo_8h.html" title="Echo cancellation." alt="" coords="480,83,621,112"/>
+<area shape="rect" id="node21" href="$speex__preprocess_8h.html" title="Speex preprocessor. The preprocess can do noise suppression, residual echo suppression (after using t..." alt="" coords="645,83,824,112"/>
+<area shape="rect" id="node15" href="$speex__types_8h.html" title="Speex types." alt="" coords="569,160,716,189"/>
+<area shape="rect" id="node17" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="549,237,736,267"/>
+</map>

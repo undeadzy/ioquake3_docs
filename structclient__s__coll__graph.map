@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structsharedEntity__t.html" title="sharedEntity_t" alt="" coords="1101,525,1208,555"/>
+<area shape="rect" id="node4" href="$structentityShared__t.html" title="entityShared_t" alt="" coords="793,469,900,499"/>
+<area shape="rect" id="node10" href="$structentityState__s.html" title="entityState_s" alt="" coords="515,461,613,491"/>
+<area shape="rect" id="node14" href="$structtrajectory__t.html" title="trajectory_t" alt="" coords="247,232,332,261"/>
+<area shape="rect" id="node25" href="$structplayerState__s.html" title="playerState_s" alt="" coords="239,524,340,553"/>
+<area shape="rect" id="node23" href="$structclientSnapshot__t.html" title="clientSnapshot_t" alt="" coords="788,683,905,712"/>
+<area shape="rect" id="node32" href="$structusercmd__s.html" title="usercmd_s" alt="" coords="1112,827,1197,856"/>
+<area shape="rect" id="node43" href="$structmsg__t.html" title="Basic data structure for msg.c." alt="" coords="817,885,876,915"/>
+<area shape="rect" id="node52" href="$structnetchan__t.html" title="Network channel." alt="" coords="808,1387,885,1416"/>
+<area shape="rect" id="node39" href="$structnetchan__buffer__s.html" title="netchan_buffer_s" alt="" coords="1093,921,1216,951"/>
+<area shape="rect" id="node54" href="$structnetadr__t.html" title="netadr_t" alt="" coords="529,1517,599,1547"/>
+</map>

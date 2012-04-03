@@ -1,0 +1,27 @@
+var structbot__movestate__s =
+[
+    [ "areanum", "structbot__movestate__s.html#a3bb5f27ce54157829f78c1308c0cf861", null ],
+    [ "avoidreach", "structbot__movestate__s.html#a6a7b7692cc68cc879a0902893c2c2535", null ],
+    [ "avoidreachtimes", "structbot__movestate__s.html#af40e6ae6e0adf8ddb732b6ee28234c2b", null ],
+    [ "avoidreachtries", "structbot__movestate__s.html#a446f123b69b6e6bf42ff9956b32b3a92", null ],
+    [ "avoidspots", "structbot__movestate__s.html#a6382fbbff776539326b14b158b988c61", null ],
+    [ "client", "structbot__movestate__s.html#ab120cd532292f87b89f6493b8207c110", null ],
+    [ "entitynum", "structbot__movestate__s.html#a7b685ae4e93201e6203fef7035d66ead", null ],
+    [ "grapplevisible_time", "structbot__movestate__s.html#a27b845009be43f64f12ebad9395952d0", null ],
+    [ "jumpreach", "structbot__movestate__s.html#af95fe29f1d60bd08f41c76adb5c2eddd", null ],
+    [ "lastareanum", "structbot__movestate__s.html#a870fc2d4adfe113acfb3ecfa0467d2a2", null ],
+    [ "lastgoalareanum", "structbot__movestate__s.html#a56516ceac3d87f47ac8ef0b637c0db27", null ],
+    [ "lastgrappledist", "structbot__movestate__s.html#aa83390ffffb9387b1ddb7ece665c7735", null ],
+    [ "lastorigin", "structbot__movestate__s.html#ad6834f4eaab226bb70f7e60452a3edcb", null ],
+    [ "lastreachnum", "structbot__movestate__s.html#a3806691c9ff243966c8352a3720b3cf0", null ],
+    [ "moveflags", "structbot__movestate__s.html#a59ee364bfb32d978029882d6b70aea65", null ],
+    [ "numavoidspots", "structbot__movestate__s.html#ad930550681c285c6be9fbe0251bf4225", null ],
+    [ "origin", "structbot__movestate__s.html#a2de9da794ef397009130d5220b4a5a12", null ],
+    [ "presencetype", "structbot__movestate__s.html#ad447400329d41f4839390ac11083364e", null ],
+    [ "reachability_time", "structbot__movestate__s.html#a51209c29c8e3b8bc17dba15215767eb4", null ],
+    [ "reachareanum", "structbot__movestate__s.html#a445ce54a5983cbdacb57235c63078917", null ],
+    [ "thinktime", "structbot__movestate__s.html#aaffdac745891c8cd2b180ee81d943489", null ],
+    [ "velocity", "structbot__movestate__s.html#a951a4ba479a6734c593f380241f97857", null ],
+    [ "viewangles", "structbot__movestate__s.html#a104aeca116818a60b574b93f3ec1dc39", null ],
+    [ "viewoffset", "structbot__movestate__s.html#a8ecef065545c372a50cb86d2c66e12e6", null ]
+];

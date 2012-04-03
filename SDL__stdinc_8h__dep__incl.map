@@ -1,0 +1,33 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$SDL__main_8h.html" title="code/SDL12/include/SDL_main.h" alt="" coords="2931,392,3144,421"/>
+<area shape="rect" id="node5" href="$SDL_8h.html" title="code/SDL12/include/SDL.h" alt="" coords="1593,469,1772,499"/>
+<area shape="rect" id="node23" href="$SDL__audio_8h.html" title="code/SDL12/include/SDL_audio.h" alt="" coords="487,315,705,344"/>
+<area shape="rect" id="node26" href="$SDL__error_8h.html" title="code/SDL12/include/SDL_error.h" alt="" coords="1228,83,1441,112"/>
+<area shape="rect" id="node29" href="$SDL__mutex_8h.html" title="code/SDL12/include/SDL_mutex.h" alt="" coords="400,160,621,189"/>
+<area shape="rect" id="node32" href="$SDL__thread_8h.html" title="code/SDL12/include/SDL_thread.h" alt="" coords="337,237,559,267"/>
+<area shape="rect" id="node38" href="$SDL__rwops_8h.html" title="code/SDL12/include/SDL_rwops.h" alt="" coords="696,160,917,189"/>
+<area shape="rect" id="node41" href="$SDL__video_8h.html" title="code/SDL12/include/SDL_video.h" alt="" coords="1032,237,1251,267"/>
+<area shape="rect" id="node43" href="$SDL__mouse_8h.html" title="code/SDL12/include/SDL_mouse.h" alt="" coords="1376,315,1603,344"/>
+<area shape="rect" id="node45" href="$SDL__events_8h.html" title="code/SDL12/include/SDL_events.h" alt="" coords="1559,392,1785,421"/>
+<area shape="rect" id="node50" href="$SDL__cdrom_8h.html" title="code/SDL12/include/SDL_cdrom.h" alt="" coords="2344,160,2565,189"/>
+<area shape="rect" id="node55" href="$SDL__active_8h.html" title="code/SDL12/include/SDL_active.h" alt="" coords="1528,160,1749,189"/>
+<area shape="rect" id="node58" href="$SDL__keyboard_8h.html" title="code/SDL12/include/SDL_keyboard.h" alt="" coords="1824,160,2064,189"/>
+<area shape="rect" id="node63" href="$SDL__joystick_8h.html" title="code/SDL12/include/SDL_joystick.h" alt="" coords="2088,160,2320,189"/>
+<area shape="rect" id="node66" href="$SDL__quit_8h.html" title="code/SDL12/include/SDL_quit.h" alt="" coords="941,160,1149,189"/>
+<area shape="rect" id="node69" href="$SDL__loadso_8h.html" title="code/SDL12/include/SDL_loadso.h" alt="" coords="2027,237,2251,267"/>
+<area shape="rect" id="node73" href="$SDL__timer_8h.html" title="code/SDL12/include/SDL_timer.h" alt="" coords="2589,160,2805,189"/>
+<area shape="rect" id="node76" href="$SDL__syswm_8h.html" title="code/SDL12/include/SDL_syswm.h" alt="" coords="2981,160,3211,189"/>
+<area shape="rect" id="node78" href="$SDL__endian_8h.html" title="code/SDL12/include/SDL_endian.h" alt="" coords="13,237,237,267"/>
+<area shape="rect" id="node88" href="$SDL__cpuinfo_8h.html" title="code/SDL12/include/SDL_cpuinfo.h" alt="" coords="3235,392,3464,421"/>
+<area shape="rect" id="node101" href="$SDL__version_8h.html" title="code/SDL12/include/SDL_version.h" alt="" coords="3032,83,3261,112"/>
+<area shape="rect" id="node105" href="$SDL__getenv_8h.html" title="code/SDL12/include/SDL_getenv.h" alt="" coords="3336,83,3563,112"/>
+<area shape="rect" id="node108" href="$SDL__types_8h.html" title="code/SDL12/include/SDL_types.h" alt="" coords="3587,83,3805,112"/>
+<area shape="rect" id="node7" href="$sys__loadlib_8h.html" title="code/sys/sys_loadlib.h" alt="" coords="2061,547,2216,576"/>
+<area shape="rect" id="node11" href="$sys__main_8c.html" title="code/sys/sys_main.c" alt="" coords="2149,624,2296,653"/>
+<area shape="rect" id="node13" href="$sdl__gamma_8c.html" title="code/sdl/sdl_gamma.c" alt="" coords="1720,547,1872,576"/>
+<area shape="rect" id="node15" href="$sdl__glimp_8c.html" title="code/sdl/sdl_glimp.c" alt="" coords="1896,547,2037,576"/>
+<area shape="rect" id="node17" href="$sdl__input_8c.html" title="code/sdl/sdl_input.c" alt="" coords="1352,547,1491,576"/>
+<area shape="rect" id="node19" href="$sdl__snd_8c.html" title="code/sdl/sdl_snd.c" alt="" coords="1515,547,1645,576"/>
+<area shape="rect" id="node9" href="$cl__main_8c.html" title="code/client/cl_main.c" alt="" coords="1981,624,2125,653"/>
+<area shape="rect" id="node82" href="$SDL__byteorder_8h.html" title="code/SDL12/include/SDL_byteorder.h" alt="" coords="5,315,245,344"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$g__local_8h.html" title="g_local.h" alt="" coords="688,83,763,112"/>
+<area shape="rect" id="node37" href="$botlib_8h.html" title="../botlib/botlib.h" alt="" coords="787,83,896,112"/>
+<area shape="rect" id="node39" href="$be__aas_8h.html" title="../botlib/be_aas.h" alt="" coords="920,83,1043,112"/>
+<area shape="rect" id="node41" href="$be__ea_8h.html" title="../botlib/be_ea.h" alt="" coords="1067,83,1181,112"/>
+<area shape="rect" id="node43" href="$be__ai__char_8h.html" title="../botlib/be_ai_char.h" alt="" coords="1205,83,1347,112"/>
+<area shape="rect" id="node45" href="$be__ai__chat_8h.html" title="../botlib/be_ai_chat.h" alt="" coords="1371,83,1512,112"/>
+<area shape="rect" id="node47" href="$be__ai__gen_8h.html" title="../botlib/be_ai_gen.h" alt="" coords="1536,83,1675,112"/>
+<area shape="rect" id="node49" href="$be__ai__goal_8h.html" title="../botlib/be_ai_goal.h" alt="" coords="1699,83,1840,112"/>
+<area shape="rect" id="node51" href="$be__ai__move_8h.html" title="../botlib/be_ai_move.h" alt="" coords="1864,83,2013,112"/>
+<area shape="rect" id="node53" href="$be__ai__weap_8h.html" title="../botlib/be_ai_weap.h" alt="" coords="2037,83,2187,112"/>
+<area shape="rect" id="node55" href="$ai__main_8h.html" title="ai_main.h" alt="" coords="2211,83,2288,112"/>
+<area shape="rect" id="node57" href="$ai__dmq3_8h.html" title="ai_dmq3.h" alt="" coords="2312,83,2395,112"/>
+<area shape="rect" id="node59" href="$ai__chat_8h.html" title="ai_chat.h" alt="" coords="2419,83,2493,112"/>
+<area shape="rect" id="node61" href="$ai__cmd_8h.html" title="ai_cmd.h" alt="" coords="2517,83,2592,112"/>
+<area shape="rect" id="node63" href="$ai__dmnet_8h.html" title="ai_dmnet.h" alt="" coords="2616,83,2701,112"/>
+<area shape="rect" id="node65" href="$ai__team_8h.html" title="ai_team.h" alt="" coords="2725,83,2803,112"/>
+<area shape="rect" id="node67" href="$ai__vcmd_8h.html" title="ai_vcmd.h" alt="" coords="2827,83,2909,112"/>
+<area shape="rect" id="node69" href="$chars_8h.html" title="chars.h" alt="" coords="2933,83,2997,112"/>
+<area shape="rect" id="node71" href="$inv_8h.html" title="inv.h" alt="" coords="3021,83,3072,112"/>
+<area shape="rect" id="node73" href="$syn_8h.html" title="syn.h" alt="" coords="3096,83,3149,112"/>
+<area shape="rect" id="node75" href="$match_8h.html" title="match.h" alt="" coords="3173,83,3243,112"/>
+<area shape="rect" id="node77" href="$menudef_8h.html" title="../../ui/menudef.h" alt="" coords="3267,83,3387,112"/>
+<area shape="rect" id="node5" href="$q__shared_8h.html" title="../qcommon/q_shared.h" alt="" coords="447,160,604,189"/>
+<area shape="rect" id="node31" href="$bg__public_8h.html" title="bg_public.h" alt="" coords="628,160,716,189"/>
+<area shape="rect" id="node33" href="$g__public_8h.html" title="g_public.h" alt="" coords="740,160,820,189"/>
+<area shape="rect" id="node35" href="$g__team_8h.html" title="g_team.h" alt="" coords="844,160,919,189"/>
+<area shape="rect" id="node27" href="$q__platform_8h.html" title="q_platform.h" alt="" coords="885,237,979,267"/>
+<area shape="rect" id="node29" href="$surfaceflags_8h.html" title="surfaceflags.h" alt="" coords="1003,237,1107,267"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$crc32_8c.html" title="code/zlib/crc32.c" alt="" coords="5,83,125,112"/>
+<area shape="rect" id="node5" href="$inffast_8c.html" title="code/zlib/inffast.c" alt="" coords="149,83,275,112"/>
+<area shape="rect" id="node7" href="$inflate_8c.html" title="code/zlib/inflate.c" alt="" coords="299,83,421,112"/>
+<area shape="rect" id="node9" href="$inftrees_8c.html" title="code/zlib/inftrees.c" alt="" coords="445,83,576,112"/>
+<area shape="rect" id="node11" href="$zutil_8c.html" title="code/zlib/zutil.c" alt="" coords="600,83,712,112"/>
+</map>

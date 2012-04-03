@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structchallenge__t.html" title="challenge_t" alt="" coords="821,331,909,360"/>
+<area shape="rect" id="node4" href="$structnetadr__t.html" title="netadr_t" alt="" coords="537,303,607,332"/>
+<area shape="rect" id="node64" href="$structnetchan__t.html" title="Network channel." alt="" coords="827,549,904,579"/>
+<area shape="rect" id="node15" href="$structclient__s.html" title="client_s" alt="" coords="1424,813,1491,843"/>
+<area shape="rect" id="node19" href="$structentityShared__t.html" title="entityShared_t" alt="" coords="812,1331,919,1360"/>
+<area shape="rect" id="node24" href="$structentityState__s.html" title="entityState_s" alt="" coords="523,1523,621,1552"/>
+<area shape="rect" id="node28" href="$structtrajectory__t.html" title="trajectory_t" alt="" coords="247,1587,332,1616"/>
+<area shape="rect" id="node36" href="$structclientSnapshot__t.html" title="clientSnapshot_t" alt="" coords="513,1056,631,1085"/>
+<area shape="rect" id="node38" href="$structplayerState__s.html" title="playerState_s" alt="" coords="239,1087,340,1116"/>
+<area shape="rect" id="node45" href="$structusercmd__s.html" title="usercmd_s" alt="" coords="1133,1103,1219,1132"/>
+<area shape="rect" id="node56" href="$structmsg__t.html" title="Basic data structure for msg.c." alt="" coords="836,789,895,819"/>
+<area shape="rect" id="node17" href="$structsharedEntity__t.html" title="sharedEntity_t" alt="" coords="1123,1331,1229,1360"/>
+<area shape="rect" id="node52" href="$structnetchan__buffer__s.html" title="netchan_buffer_s" alt="" coords="1115,813,1237,843"/>
+</map>

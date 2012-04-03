@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$sys__loadlib_8h.html" title="code/sys/sys_loadlib.h" alt="" coords="55,160,209,189"/>
+<area shape="rect" id="node9" href="$SDL_8h.html" title="code/SDL12/include/SDL.h" alt="" coords="271,83,449,112"/>
+<area shape="rect" id="node5" href="$cl__main_8c.html" title="code/client/cl_main.c" alt="" coords="5,237,149,267"/>
+<area shape="rect" id="node7" href="$sys__main_8c.html" title="code/sys/sys_main.c" alt="" coords="173,237,320,267"/>
+<area shape="rect" id="node12" href="$sdl__gamma_8c.html" title="code/sdl/sdl_gamma.c" alt="" coords="284,160,436,189"/>
+<area shape="rect" id="node14" href="$sdl__glimp_8c.html" title="code/sdl/sdl_glimp.c" alt="" coords="460,160,601,189"/>
+<area shape="rect" id="node16" href="$sdl__input_8c.html" title="code/sdl/sdl_input.c" alt="" coords="625,160,764,189"/>
+<area shape="rect" id="node18" href="$sdl__snd_8c.html" title="code/sdl/sdl_snd.c" alt="" coords="788,160,919,189"/>
+</map>

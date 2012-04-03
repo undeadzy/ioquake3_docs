@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$server_8h.html" title="server.h" alt="" coords="1032,83,1101,112"/>
+<area shape="rect" id="node5" href="$q__shared_8h.html" title="../qcommon/q_shared.h" alt="" coords="489,160,647,189"/>
+<area shape="rect" id="node31" href="$qcommon_8h.html" title="definitions common between client and server, but not game or ref modules" alt="" coords="901,160,1064,189"/>
+<area shape="rect" id="node37" href="$g__public_8h.html" title="../game/g_public.h" alt="" coords="1088,160,1216,189"/>
+<area shape="rect" id="node39" href="$bg__public_8h.html" title="../game/bg_public.h" alt="" coords="1240,160,1376,189"/>
+<area shape="rect" id="node27" href="$q__platform_8h.html" title="q_platform.h" alt="" coords="885,237,979,267"/>
+<area shape="rect" id="node29" href="$surfaceflags_8h.html" title="surfaceflags.h" alt="" coords="1003,237,1107,267"/>
+<area shape="rect" id="node33" href="$cm__public_8h.html" title="../qcommon/cm_public.h" alt="" coords="1131,237,1296,267"/>
+<area shape="rect" id="node35" href="$qfiles_8h.html" title="qfiles.h" alt="" coords="1181,315,1245,344"/>
+</map>

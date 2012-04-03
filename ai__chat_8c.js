@@ -1,0 +1,28 @@
+var ai__chat_8c =
+[
+    [ "TIME_BETWEENCHATTING", "ai__chat_8c.html#a4d8fc47d569acf5b0dc8dc7348d65c7a", null ],
+    [ "BotChat_Death", "ai__chat_8c.html#a79d1aa1f53d07cc30a8f87faf391b3e5", null ],
+    [ "BotChat_EndLevel", "ai__chat_8c.html#a80c1c10c3dd3c91e68bdd91c4f87dc9e", null ],
+    [ "BotChat_EnemySuicide", "ai__chat_8c.html#a9ec77f681886396233c3affd8f7550b5", null ],
+    [ "BotChat_EnterGame", "ai__chat_8c.html#a4f0c1562a3251f36538f9c522ba5f8e4", null ],
+    [ "BotChat_ExitGame", "ai__chat_8c.html#a0aabe18cff70962399fc4eb19af303f4", null ],
+    [ "BotChat_HitNoDeath", "ai__chat_8c.html#a4a3894fe32ee98a0cd08c9e2cf69a521", null ],
+    [ "BotChat_HitNoKill", "ai__chat_8c.html#a4f6b6a03a27e0044b015081af7d71b83", null ],
+    [ "BotChat_HitTalking", "ai__chat_8c.html#a488e0659271388a90b824760f19229dd", null ],
+    [ "BotChat_Kill", "ai__chat_8c.html#adbe9075c6fc8b69c105bad34a39d115e", null ],
+    [ "BotChat_Random", "ai__chat_8c.html#a266517782eeddeb4c93e806d0db3279f", null ],
+    [ "BotChat_StartLevel", "ai__chat_8c.html#a6b343ba6741b8f8bdc74d5836d003a37", null ],
+    [ "BotChatTest", "ai__chat_8c.html#a285575b9cd96144e18e27708447f3b68", null ],
+    [ "BotChatTime", "ai__chat_8c.html#a9c4e8af9c603297be68d596e1f047390", null ],
+    [ "BotFirstClientInRankings", "ai__chat_8c.html#aaad42d00264a4b44348adeda0128d936", null ],
+    [ "BotIsFirstInRankings", "ai__chat_8c.html#aafc480cd2b35a3966adc35805ccccefd", null ],
+    [ "BotIsLastInRankings", "ai__chat_8c.html#ac56bcc29e5a4f2c19e4e249213938f50", null ],
+    [ "BotLastClientInRankings", "ai__chat_8c.html#a350dc4ac70646c67d317aa38eac9191f", null ],
+    [ "BotMapTitle", "ai__chat_8c.html#a52ed6c175c360de559fecd777266e9aa", null ],
+    [ "BotNumActivePlayers", "ai__chat_8c.html#a059286cfc38fe8b50c1acf1f6ab9ee8f", null ],
+    [ "BotRandomOpponentName", "ai__chat_8c.html#a874aee42ca69c8dd72fef891f38d7bc3", null ],
+    [ "BotRandomWeaponName", "ai__chat_8c.html#a5be8d7f2f8c51aa782f708378d64274d", null ],
+    [ "BotValidChatPosition", "ai__chat_8c.html#a27594d97ea80555f30f1f7731e45a983", null ],
+    [ "BotVisibleEnemies", "ai__chat_8c.html#a1ec6d2d92be81f3233cc1df8c6226ffd", null ],
+    [ "BotWeaponNameForMeansOfDeath", "ai__chat_8c.html#aeb8816a9bf3661ecbfa4f762b0ab0b4e", null ]
+];

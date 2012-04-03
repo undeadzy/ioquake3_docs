@@ -1,0 +1,27 @@
+var bg__local_8h =
+[
+    [ "JUMP_VELOCITY", "bg__local_8h.html#a9365a65e296147ddf7e8bc6a48d9a966", null ],
+    [ "MIN_WALK_NORMAL", "bg__local_8h.html#afb21b82f6ff208e590e80228510b8120", null ],
+    [ "OVERCLIP", "bg__local_8h.html#a417156250cdfc78acc795e76e5044750", null ],
+    [ "STEPSIZE", "bg__local_8h.html#a0b31438dd90256ed47b3bea0eb62be06", null ],
+    [ "TIMER_GESTURE", "bg__local_8h.html#a1592c9b7ddfbc34b7ac69a9fca123135", null ],
+    [ "TIMER_LAND", "bg__local_8h.html#a22bb8a8172f1f6b4e3dac7c2ecdd605f", null ],
+    [ "PM_AddEvent", "bg__local_8h.html#a40f37a8dcc8fcba90412fa156b660d4d", null ],
+    [ "PM_AddTouchEnt", "bg__local_8h.html#a9eb607591baa87d51de3411aeca5413e", null ],
+    [ "PM_ClipVelocity", "bg__local_8h.html#aa5bd21262080fd4503b426b5eccfcdc1", null ],
+    [ "PM_SlideMove", "bg__local_8h.html#adc68d122df295911fd5613e1408bf1ff", null ],
+    [ "PM_StepSlideMove", "bg__local_8h.html#a49e3c1759cf86a1111c4e402716e2142", null ],
+    [ "c_pmove", "bg__local_8h.html#ada0f9eb52719178e4633080c68ed7087", null ],
+    [ "pm", "bg__local_8h.html#aad9442533749afece8f0b39fcfd6ed0d", null ],
+    [ "pm_accelerate", "bg__local_8h.html#a65addf9eb97aed8d05e905c2ccde38ed", null ],
+    [ "pm_airaccelerate", "bg__local_8h.html#a541572f5906f665f087941a849fdd44a", null ],
+    [ "pm_duckScale", "bg__local_8h.html#a859aa5a13f9106c7f3af76579e937c49", null ],
+    [ "pm_flightfriction", "bg__local_8h.html#a08ab3a72d4a4a6fc824200f861886467", null ],
+    [ "pm_flyaccelerate", "bg__local_8h.html#a01e65568ec774d0c7ff5a435529fe92e", null ],
+    [ "pm_friction", "bg__local_8h.html#a0336713647079616ae288b3e24ef2435", null ],
+    [ "pm_stopspeed", "bg__local_8h.html#a0d0f8b0eaefda4c4d5a5afdac45ca02d", null ],
+    [ "pm_swimScale", "bg__local_8h.html#a65abab356137637c65a9e24ac6e2ae12", null ],
+    [ "pm_wateraccelerate", "bg__local_8h.html#a062a13dcfe95fa36a86dc10868740bcd", null ],
+    [ "pm_waterfriction", "bg__local_8h.html#a45913b09616e298221204c9c205742c4", null ],
+    [ "pml", "bg__local_8h.html#a5fad5931f1d0d13564a65dda5edc0b17", null ]
+];

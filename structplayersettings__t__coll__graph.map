@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structmenufield__s.html" title="menufield_s" alt="" coords="1749,808,1840,837"/>
+<area shape="rect" id="node4" href="$structmenucommon__s.html" title="menucommon_s" alt="" coords="1403,632,1520,661"/>
+<area shape="rect" id="node31" href="$structmenubitmap__s.html" title="menubitmap_s" alt="" coords="1275,808,1381,837"/>
+<area shape="rect" id="node40" href="$structmenutext__s.html" title="menutext_s" alt="" coords="1149,808,1240,837"/>
+<area shape="rect" id="node47" href="$structmenulist__s.html" title="menulist_s" alt="" coords="1523,808,1608,837"/>
+<area shape="rect" id="node6" href="$struct__tag__menuframework.html" title="_tag_menuframework" alt="" coords="207,269,353,299"/>
+<area shape="rect" id="node27" href="$structmfield__t.html" title="mfield_t" alt="" coords="1844,632,1911,661"/>
+<area shape="rect" id="node52" href="$structplayerInfo__t.html" title="playerInfo_t" alt="" coords="629,808,720,837"/>
+<area shape="rect" id="node57" href="$structanimation__s.html" title="animation_s" alt="" coords="695,269,785,299"/>
+<area shape="rect" id="node61" href="$structlerpFrame__t.html" title="lerpFrame_t" alt="" coords="477,632,568,661"/>
+</map>

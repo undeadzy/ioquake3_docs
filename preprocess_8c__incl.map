@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$speex__preprocess_8h.html" title="Speex preprocessor. The preprocess can do noise suppression, residual echo suppression (after using t..." alt="" coords="5,160,184,189"/>
+<area shape="rect" id="node13" href="$speex__echo_8h.html" title="Echo cancellation." alt="" coords="208,160,349,189"/>
+<area shape="rect" id="node16" href="$arch_8h.html" title="Various architecture definitions Speex." alt="" coords="373,160,432,189"/>
+<area shape="rect" id="node19" href="$fftwrap_8h.html" title="fftwrap.h" alt="" coords="315,83,387,112"/>
+<area shape="rect" id="node22" href="$filterbank_8h.html" title="Converting between psd and filterbank." alt="" coords="411,83,496,112"/>
+<area shape="rect" id="node25" href="$math__approx_8h.html" title="Various math approximation functions for Speex." alt="" coords="520,83,627,112"/>
+<area shape="rect" id="node28" href="$os__support_8h.html" title="os_support.h" alt="" coords="651,83,747,112"/>
+<area shape="rect" id="node7" href="$speex__types_8h.html" title="Speex types." alt="" coords="205,237,352,267"/>
+<area shape="rect" id="node9" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="185,315,372,344"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$cb__search_8h.html" title="Overlapped codebook search." alt="" coords="25,83,119,112"/>
+<area shape="rect" id="node7" href="$arch_8h.html" title="Various architecture definitions Speex." alt="" coords="196,160,255,189"/>
+<area shape="rect" id="node15" href="$filters_8h.html" title="Various analysis/synthesis filters." alt="" coords="193,83,257,112"/>
+<area shape="rect" id="node18" href="$stack__alloc_8h.html" title="Temporary memory allocation on stack." alt="" coords="281,83,380,112"/>
+<area shape="rect" id="node20" href="$vq_8h.html" title="Vector quantization." alt="" coords="404,83,449,112"/>
+<area shape="rect" id="node24" href="$math__approx_8h.html" title="Various math approximation functions for Speex." alt="" coords="473,83,580,112"/>
+<area shape="rect" id="node27" href="$os__support_8h.html" title="os_support.h" alt="" coords="604,83,700,112"/>
+<area shape="rect" id="node5" href="$speex__bits_8h.html" title="Handles bit packing/unpacking." alt="" coords="5,160,139,189"/>
+<area shape="rect" id="node9" href="$speex__types_8h.html" title="Speex types." alt="" coords="152,237,299,267"/>
+<area shape="rect" id="node11" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="132,315,319,344"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$tr__local_8h.html" title="code/renderer/tr_local.h" alt="" coords="3217,83,3375,112"/>
+<area shape="rect" id="node5" href="$null__glimp_8c.html" title="code/null/null_glimp.c" alt="" coords="5,160,152,189"/>
+<area shape="rect" id="node7" href="$tr__animation_8c.html" title="code/renderer/tr_animation.c" alt="" coords="176,160,363,189"/>
+<area shape="rect" id="node9" href="$tr__backend_8c.html" title="code/renderer/tr_backend.c" alt="" coords="387,160,565,189"/>
+<area shape="rect" id="node11" href="$tr__bsp_8c.html" title="code/renderer/tr_bsp.c" alt="" coords="589,160,741,189"/>
+<area shape="rect" id="node13" href="$tr__cmds_8c.html" title="code/renderer/tr_cmds.c" alt="" coords="765,160,928,189"/>
+<area shape="rect" id="node15" href="$tr__curve_8c.html" title="code/renderer/tr_curve.c" alt="" coords="952,160,1115,189"/>
+<area shape="rect" id="node17" href="$tr__flares_8c.html" title="code/renderer/tr_flares.c" alt="" coords="1139,160,1301,189"/>
+<area shape="rect" id="node19" href="$tr__font_8c.html" title="code/renderer/tr_font.c" alt="" coords="1325,160,1477,189"/>
+<area shape="rect" id="node21" href="$tr__image_8c.html" title="code/renderer/tr_image.c" alt="" coords="1501,160,1667,189"/>
+<area shape="rect" id="node23" href="$tr__image__bmp_8c.html" title="code/renderer/tr_image_bmp.c" alt="" coords="1691,160,1888,189"/>
+<area shape="rect" id="node25" href="$tr__image__jpg_8c.html" title="code/renderer/tr_image_jpg.c" alt="" coords="1912,160,2101,189"/>
+<area shape="rect" id="node27" href="$tr__image__pcx_8c.html" title="code/renderer/tr_image_pcx.c" alt="" coords="2125,160,2320,189"/>
+<area shape="rect" id="node29" href="$tr__image__png_8c.html" title="code/renderer/tr_image_png.c" alt="" coords="2344,160,2539,189"/>
+<area shape="rect" id="node31" href="$tr__image__tga_8c.html" title="code/renderer/tr_image_tga.c" alt="" coords="2563,160,2752,189"/>
+<area shape="rect" id="node33" href="$tr__init_8c.html" title="code/renderer/tr_init.c" alt="" coords="2776,160,2923,189"/>
+<area shape="rect" id="node35" href="$tr__light_8c.html" title="code/renderer/tr_light.c" alt="" coords="2947,160,3101,189"/>
+<area shape="rect" id="node37" href="$tr__main_8c.html" title="code/renderer/tr_main.c" alt="" coords="3125,160,3283,189"/>
+<area shape="rect" id="node39" href="$tr__marks_8c.html" title="code/renderer/tr_marks.c" alt="" coords="3307,160,3472,189"/>
+<area shape="rect" id="node41" href="$tr__mesh_8c.html" title="code/renderer/tr_mesh.c" alt="" coords="3496,160,3659,189"/>
+<area shape="rect" id="node43" href="$tr__model_8c.html" title="code/renderer/tr_model.c" alt="" coords="3683,160,3848,189"/>
+<area shape="rect" id="node45" href="$tr__model__iqm_8c.html" title="code/renderer/tr_model_iqm.c" alt="" coords="3872,160,4067,189"/>
+<area shape="rect" id="node47" href="$tr__noise_8c.html" title="code/renderer/tr_noise.c" alt="" coords="4091,160,4253,189"/>
+<area shape="rect" id="node49" href="$tr__scene_8c.html" title="code/renderer/tr_scene.c" alt="" coords="4277,160,4443,189"/>
+<area shape="rect" id="node51" href="$tr__shade_8c.html" title="code/renderer/tr_shade.c" alt="" coords="4467,160,4632,189"/>
+<area shape="rect" id="node53" href="$tr__shade__calc_8c.html" title="code/renderer/tr_shade_calc.c" alt="" coords="4656,160,4853,189"/>
+<area shape="rect" id="node55" href="$tr__shader_8c.html" title="code/renderer/tr_shader.c" alt="" coords="4877,160,5048,189"/>
+<area shape="rect" id="node57" href="$tr__shadows_8c.html" title="code/renderer/tr_shadows.c" alt="" coords="5072,160,5253,189"/>
+<area shape="rect" id="node59" href="$tr__sky_8c.html" title="code/renderer/tr_sky.c" alt="" coords="5277,160,5429,189"/>
+<area shape="rect" id="node61" href="$tr__subs_8c.html" title="code/renderer/tr_subs.c" alt="" coords="5453,160,5611,189"/>
+<area shape="rect" id="node63" href="$tr__surface_8c.html" title="code/renderer/tr_surface.c" alt="" coords="5635,160,5808,189"/>
+<area shape="rect" id="node65" href="$tr__world_8c.html" title="code/renderer/tr_world.c" alt="" coords="5832,160,5995,189"/>
+<area shape="rect" id="node67" href="$sdl__gamma_8c.html" title="code/sdl/sdl_gamma.c" alt="" coords="6019,160,6171,189"/>
+<area shape="rect" id="node69" href="$sdl__glimp_8c.html" title="code/sdl/sdl_glimp.c" alt="" coords="6195,160,6336,189"/>
+<area shape="rect" id="node71" href="$sdl__input_8c.html" title="code/sdl/sdl_input.c" alt="" coords="6360,160,6499,189"/>
+</map>

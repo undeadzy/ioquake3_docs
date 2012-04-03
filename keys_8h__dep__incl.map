@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$client_8h.html" title="code/client/client.h" alt="" coords="1641,83,1772,112"/>
+<area shape="rect" id="node5" href="$cl__avi_8c.html" title="code/client/cl_avi.c" alt="" coords="5,160,139,189"/>
+<area shape="rect" id="node7" href="$cl__cgame_8c.html" title="code/client/cl_cgame.c" alt="" coords="163,160,317,189"/>
+<area shape="rect" id="node9" href="$cl__cin_8c.html" title="code/client/cl_cin.c" alt="" coords="341,160,475,189"/>
+<area shape="rect" id="node11" href="$cl__console_8c.html" title="code/client/cl_console.c" alt="" coords="499,160,661,189"/>
+<area shape="rect" id="node13" href="$cl__input_8c.html" title="code/client/cl_input.c" alt="" coords="685,160,829,189"/>
+<area shape="rect" id="node15" href="$cl__keys_8c.html" title="code/client/cl_keys.c" alt="" coords="853,160,997,189"/>
+<area shape="rect" id="node17" href="$cl__main_8c.html" title="code/client/cl_main.c" alt="" coords="1021,160,1165,189"/>
+<area shape="rect" id="node19" href="$cl__net__chan_8c.html" title="code/client/cl_net_chan.c" alt="" coords="1189,160,1360,189"/>
+<area shape="rect" id="node21" href="$cl__parse_8c.html" title="code/client/cl_parse.c" alt="" coords="1384,160,1533,189"/>
+<area shape="rect" id="node23" href="$cl__scrn_8c.html" title="code/client/cl_scrn.c" alt="" coords="1557,160,1699,189"/>
+<area shape="rect" id="node25" href="$cl__ui_8c.html" title="code/client/cl_ui.c" alt="" coords="1723,160,1848,189"/>
+<area shape="rect" id="node27" href="$snd__codec_8c.html" title="code/client/snd_codec.c" alt="" coords="1872,160,2035,189"/>
+<area shape="rect" id="node29" href="$snd__codec__wav_8c.html" title="code/client/snd_codec_wav.c" alt="" coords="2059,160,2253,189"/>
+<area shape="rect" id="node31" href="$snd__dma_8c.html" title="code/client/snd_dma.c" alt="" coords="2277,160,2429,189"/>
+<area shape="rect" id="node33" href="$snd__main_8c.html" title="code/client/snd_main.c" alt="" coords="2453,160,2608,189"/>
+<area shape="rect" id="node35" href="$snd__mix_8c.html" title="code/client/snd_mix.c" alt="" coords="2632,160,2781,189"/>
+<area shape="rect" id="node37" href="$snd__openal_8c.html" title="code/client/snd_openal.c" alt="" coords="2805,160,2971,189"/>
+<area shape="rect" id="node39" href="$sdl__glimp_8c.html" title="code/sdl/sdl_glimp.c" alt="" coords="2995,160,3136,189"/>
+<area shape="rect" id="node41" href="$sdl__input_8c.html" title="code/sdl/sdl_input.c" alt="" coords="3160,160,3299,189"/>
+<area shape="rect" id="node43" href="$con__tty_8c.html" title="code/sys/con_tty.c" alt="" coords="3323,160,3456,189"/>
+</map>

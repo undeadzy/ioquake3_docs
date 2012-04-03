@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$sb__celp_8h.html" title="Sub&#45;band CELP mode used for wideband encoding." alt="" coords="184,83,347,112"/>
+<area shape="rect" id="node5" href="$modes_8c.html" title="code/libspeex/modes.c" alt="" coords="5,160,160,189"/>
+<area shape="rect" id="node7" href="$modes__wb_8c.html" title="code/libspeex/modes_wb.c" alt="" coords="371,160,549,189"/>
+<area shape="rect" id="node13" href="$nb__celp_8c.html" title="code/libspeex/nb_celp.c" alt="" coords="421,83,584,112"/>
+<area shape="rect" id="node9" href="$sb__celp_8c.html" title="code/libspeex/sb_celp.c" alt="" coords="184,160,347,189"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$modes_8h.html" title="Describes the different modes of the codec." alt="" coords="579,237,651,267"/>
+<area shape="rect" id="node16" href="$arch_8h.html" title="Various architecture definitions Speex." alt="" coords="275,315,333,344"/>
+<area shape="rect" id="node19" href="$ltp_8h.html" title="Long&#45;Term Prediction functions." alt="" coords="725,237,771,267"/>
+<area shape="rect" id="node23" href="$quant__lsp_8h.html" title="LSP vector quantization." alt="" coords="795,237,883,267"/>
+<area shape="rect" id="node27" href="$cb__search_8h.html" title="Overlapped codebook search." alt="" coords="5,237,99,267"/>
+<area shape="rect" id="node31" href="$sb__celp_8h.html" title="Sub&#45;band CELP mode used for wideband encoding." alt="" coords="624,83,701,112"/>
+<area shape="rect" id="node35" href="$nb__celp_8h.html" title="Narrowband CELP encoder/decoder." alt="" coords="472,160,549,189"/>
+<area shape="rect" id="node42" href="$vbr_8h.html" title="Variable Bit&#45;Rate (VBR) related routines." alt="" coords="173,237,224,267"/>
+<area shape="rect" id="node53" href="$os__support_8h.html" title="os_support.h" alt="" coords="912,83,1008,112"/>
+<area shape="rect" id="node5" href="$speex_8h.html" title="Describes the different modes of the codec." alt="" coords="383,315,489,344"/>
+<area shape="rect" id="node7" href="$speex__bits_8h.html" title="Handles bit packing/unpacking." alt="" coords="548,392,681,421"/>
+<area shape="rect" id="node9" href="$speex__types_8h.html" title="Speex types." alt="" coords="308,392,455,421"/>
+<area shape="rect" id="node11" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="288,469,475,499"/>
+<area shape="rect" id="node39" href="$speex__callbacks_8h.html" title="Describes callback handling and in&#45;band signalling." alt="" coords="336,237,504,267"/>
+<area shape="rect" id="node45" href="$filters_8h.html" title="Various analysis/synthesis filters." alt="" coords="248,237,312,267"/>
+</map>

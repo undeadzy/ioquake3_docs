@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$lsp_8h.html" title="Line Spectral Pair (LSP) functions." alt="" coords="91,83,141,112"/>
+<area shape="rect" id="node15" href="$stack__alloc_8h.html" title="Temporary memory allocation on stack." alt="" coords="165,83,264,112"/>
+<area shape="rect" id="node17" href="$math__approx_8h.html" title="Various math approximation functions for Speex." alt="" coords="288,83,395,112"/>
+<area shape="rect" id="node7" href="$arch_8h.html" title="Various architecture definitions Speex." alt="" coords="199,160,257,189"/>
+<area shape="rect" id="node9" href="$speex__types_8h.html" title="Speex types." alt="" coords="155,237,301,267"/>
+<area shape="rect" id="node11" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="135,315,321,344"/>
+</map>

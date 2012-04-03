@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$modes_8h.html" title="Describes the different modes of the codec." alt="" coords="36,83,108,112"/>
+<area shape="rect" id="node7" href="$speex__bits_8h.html" title="Handles bit packing/unpacking." alt="" coords="5,237,139,267"/>
+<area shape="rect" id="node20" href="$speex__callbacks_8h.html" title="Describes callback handling and in&#45;band signalling." alt="" coords="132,83,300,112"/>
+<area shape="rect" id="node23" href="$vbr_8h.html" title="Variable Bit&#45;Rate (VBR) related routines." alt="" coords="412,83,463,112"/>
+<area shape="rect" id="node26" href="$filters_8h.html" title="Various analysis/synthesis filters." alt="" coords="324,83,388,112"/>
+<area shape="rect" id="node5" href="$speex_8h.html" title="Describes the different modes of the codec." alt="" coords="131,160,237,189"/>
+<area shape="rect" id="node16" href="$arch_8h.html" title="Various architecture definitions Speex." alt="" coords="304,160,363,189"/>
+<area shape="rect" id="node9" href="$speex__types_8h.html" title="Speex types." alt="" coords="211,237,357,267"/>
+<area shape="rect" id="node11" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="191,315,377,344"/>
+</map>

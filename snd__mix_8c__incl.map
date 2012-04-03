@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$client_8h.html" title="client.h" alt="" coords="1143,83,1207,112"/>
+<area shape="rect" id="node53" href="$snd__local_8h.html" title="snd_local.h" alt="" coords="912,83,1000,112"/>
+<area shape="rect" id="node5" href="$q__shared_8h.html" title="../qcommon/q_shared.h" alt="" coords="579,160,736,189"/>
+<area shape="rect" id="node31" href="$qcommon_8h.html" title="definitions common between client and server, but not game or ref modules" alt="" coords="803,160,965,189"/>
+<area shape="rect" id="node37" href="$tr__public_8h.html" title="../renderer/tr_public.h" alt="" coords="1267,160,1411,189"/>
+<area shape="rect" id="node41" href="$ui__public_8h.html" title="../ui/ui_public.h" alt="" coords="1435,160,1544,189"/>
+<area shape="rect" id="node43" href="$keys_8h.html" title="keys.h" alt="" coords="1568,160,1629,189"/>
+<area shape="rect" id="node47" href="$snd__public_8h.html" title="snd_public.h" alt="" coords="989,160,1083,189"/>
+<area shape="rect" id="node49" href="$cg__public_8h.html" title="../cgame/cg_public.h" alt="" coords="1653,160,1795,189"/>
+<area shape="rect" id="node51" href="$bg__public_8h.html" title="../game/bg_public.h" alt="" coords="1107,160,1243,189"/>
+<area shape="rect" id="node27" href="$q__platform_8h.html" title="q_platform.h" alt="" coords="181,237,275,267"/>
+<area shape="rect" id="node29" href="$surfaceflags_8h.html" title="surfaceflags.h" alt="" coords="299,237,403,267"/>
+<area shape="rect" id="node33" href="$cm__public_8h.html" title="../qcommon/cm_public.h" alt="" coords="1131,237,1296,267"/>
+<area shape="rect" id="node35" href="$qfiles_8h.html" title="qfiles.h" alt="" coords="1181,315,1245,344"/>
+<area shape="rect" id="node39" href="$tr__types_8h.html" title="tr_types.h" alt="" coords="1320,237,1400,267"/>
+<area shape="rect" id="node45" href="$keycodes_8h.html" title="keycodes.h" alt="" coords="1555,237,1643,267"/>
+</map>

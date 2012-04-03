@@ -1,0 +1,27 @@
+var speex__callbacks_8h =
+[
+    [ "SPEEX_INBAND_ACKNOWLEDGE", "group__SpeexCallbacks.html#ga7382109574b6c2a42234c6ed2fe147ac", null ],
+    [ "SPEEX_INBAND_ACKNOWLEDGE_REQUEST", "group__SpeexCallbacks.html#gac361997b9e7444cd824b54afab3169af", null ],
+    [ "SPEEX_INBAND_CHAR", "group__SpeexCallbacks.html#gab2355e945545e4733fd27eb30efa2c01", null ],
+    [ "SPEEX_INBAND_ENH_REQUEST", "group__SpeexCallbacks.html#gaea34eae56b6b0709cd552ae70a77aef3", null ],
+    [ "SPEEX_INBAND_HIGH_MODE_REQUEST", "group__SpeexCallbacks.html#gab1176823f48d523839f1ce02c7afb817", null ],
+    [ "SPEEX_INBAND_LOW_MODE_REQUEST", "group__SpeexCallbacks.html#ga203977c45665fb227794e9015da8b485", null ],
+    [ "SPEEX_INBAND_MAX_BITRATE", "group__SpeexCallbacks.html#ga4aea8dfb47f01487346b2b525ebbb137", null ],
+    [ "SPEEX_INBAND_MODE_REQUEST", "group__SpeexCallbacks.html#ga69c4253f5e3cf0bee47f6888f7b1d471", null ],
+    [ "SPEEX_INBAND_RESERVED1", "group__SpeexCallbacks.html#gab990be37faa5fab6224b956ebb7e24ef", null ],
+    [ "SPEEX_INBAND_STEREO", "group__SpeexCallbacks.html#gabc32c077844f186690e673058ff6201c", null ],
+    [ "SPEEX_INBAND_VBR_QUALITY_REQUEST", "group__SpeexCallbacks.html#gac3ad866c7dd12c29aa5ced2df6f3c3d5", null ],
+    [ "SPEEX_INBAND_VBR_REQUEST", "group__SpeexCallbacks.html#ga805e5dc9bb3d021b275bdf592d4b3690", null ],
+    [ "SPEEX_MAX_CALLBACKS", "group__SpeexCallbacks.html#gaf0edfee3109425f5049f2488e25e3f1d", null ],
+    [ "speex_callback_func", "group__SpeexCallbacks.html#ga6bd5c6fb5ac212f2fd5e4e0243262452", null ],
+    [ "SpeexCallback", "group__SpeexCallbacks.html#ga09bed89695c645f0566729a93bc2e1cb", null ],
+    [ "speex_default_user_handler", "group__SpeexCallbacks.html#ga4aface84490e8aa6d462e653f4ed01e2", null ],
+    [ "speex_inband_handler", "group__SpeexCallbacks.html#ga70f8fbd114e3c99da5ee5f2e33f04a77", null ],
+    [ "speex_std_char_handler", "group__SpeexCallbacks.html#ga076cddf3a6e6fa27116b05fd5c1683e7", null ],
+    [ "speex_std_enh_request_handler", "group__SpeexCallbacks.html#ga11dc45e854f42980b61ea8e71df8cb3d", null ],
+    [ "speex_std_high_mode_request_handler", "group__SpeexCallbacks.html#ga38699f3ecd26cf9533e0616aabb73bc2", null ],
+    [ "speex_std_low_mode_request_handler", "group__SpeexCallbacks.html#gab43de1675b18bebfafe23a5fe7fc61de", null ],
+    [ "speex_std_mode_request_handler", "group__SpeexCallbacks.html#ga1b2f7ee32849cbb0065c0f6a6e451358", null ],
+    [ "speex_std_vbr_quality_request_handler", "group__SpeexCallbacks.html#gab26a24b67aa42f21fb6289b01625de69", null ],
+    [ "speex_std_vbr_request_handler", "group__SpeexCallbacks.html#ga528400059986cb88fe36969bd0bea1af", null ]
+];

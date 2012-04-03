@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node4" href="$structmd3Header__t.html" title="md3Header_t" alt="" coords="541,217,640,247"/>
+<area shape="rect" id="node20" href="$structshader__s.html" title="shader_s" alt="" coords="1385,973,1460,1003"/>
+<area shape="rect" id="node38" href="$structimage__s.html" title="image_s" alt="" coords="556,1048,625,1077"/>
+<area shape="rect" id="node10" href="$structbmodel__t.html" title="bmodel_t" alt="" coords="1788,341,1863,371"/>
+<area shape="rect" id="node15" href="$structmsurface__s.html" title="msurface_s" alt="" coords="1573,536,1664,565"/>
+<area shape="rect" id="node63" href="$structtextureBundle__t.html" title="textureBundle_t" alt="" coords="777,1528,889,1557"/>
+<area shape="rect" id="node22" href="$structdeformStage__t.html" title="deformStage_t" alt="" coords="537,1115,644,1144"/>
+<area shape="rect" id="node27" href="$structwaveForm__t.html" title="waveForm_t" alt="" coords="245,1529,339,1559"/>
+<area shape="rect" id="node36" href="$structskyParms__t.html" title="skyParms_t" alt="" coords="788,904,879,933"/>
+<area shape="rect" id="node52" href="$structfogParms__t.html" title="fogParms_t" alt="" coords="392,773,480,803"/>
+<area shape="rect" id="node65" href="$structtexModInfo__t.html" title="texModInfo_t" alt="" coords="541,1517,640,1547"/>
+<area shape="rect" id="node57" href="$structshaderStage__t.html" title="shaderStage_t" alt="" coords="1059,1391,1165,1420"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$filters_8h.html" title="Various analysis/synthesis filters." alt="" coords="5,83,69,112"/>
+<area shape="rect" id="node5" href="$arch_8h.html" title="Various architecture definitions Speex." alt="" coords="173,160,232,189"/>
+<area shape="rect" id="node13" href="$stack__alloc_8h.html" title="Temporary memory allocation on stack." alt="" coords="144,83,243,112"/>
+<area shape="rect" id="node16" href="$math__approx_8h.html" title="Various math approximation functions for Speex." alt="" coords="267,83,373,112"/>
+<area shape="rect" id="node19" href="$ltp_8h.html" title="Long&#45;Term Prediction functions." alt="" coords="397,83,443,112"/>
+<area shape="rect" id="node7" href="$speex__types_8h.html" title="Speex types." alt="" coords="129,237,276,267"/>
+<area shape="rect" id="node9" href="$speex__config__types_8h.html" title="speex/speex_config_types.h" alt="" coords="109,315,296,344"/>
+<area shape="rect" id="node21" href="$speex__bits_8h.html" title="Handles bit packing/unpacking." alt="" coords="353,160,487,189"/>
+</map>
